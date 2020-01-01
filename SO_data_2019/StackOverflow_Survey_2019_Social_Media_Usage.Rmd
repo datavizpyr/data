@@ -1,0 +1,31 @@
+---
+title: "Exploring StackOverFlow Survey Data 2019"
+author: "DataVizPyR"
+date: "12/31/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+
+survey_results_raw <- read_csv("survey_results_public.csv") %>%
+  filter(
+    Country == "United States",
+    Employment == "Employed full-time",
+    ConvertedComp > 3e4,
+    ConvertedComp < 2e6
+  )
+```
+```{r}
+socialmedia_2019 <- survey_results_raw %>% 
+  filter(Gender %in% c("Man", "Woman")) %>%
+  count(SocialMedia, Gender) %>%
+  filter(!str_detect(SocialMedia, 'We|VK') & !is.na(SocialMedia)) 
+write.csv(socialmedia_2019,
+          "StackOverflow_Survey_2019_Social_Media_Usage.csv", 
+         quote=FALSE, row.names=FALSE)
+```
