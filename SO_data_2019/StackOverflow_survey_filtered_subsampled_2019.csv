@@ -1,0 +1,2001 @@
+CompTotal,Gender,DevType,YearsCode,Age1stCode,YearsCodePro,Education
+190000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,24,12,21,Master's
+65000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack,2,26,1,Bachelor's
+75000,Man,Developer, mobile,15,15,12,Less than bachelor's
+210000,Man,Developer, desktop or enterprise applications,25,14,13,Bachelor's
+1e+05,Man,Developer, back-end,3,19,3,Less than bachelor's
+120000,Man,Database administrator;Developer, full-stack;DevOps specialist,10,15,5,Bachelor's
+70000,Man,Developer, back-end,3,20,1,Bachelor's
+92000,Man,Developer, back-end;Developer, full-stack;Student,7,6,4,Less than bachelor's
+79090,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;Product manager,10,6,3,Bachelor's
+61300,Man,Academic researcher;Database administrator;Developer, full-stack;Engineering manager;System administrator,11,14,6,Master's
+75000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;System administrator,8,12,5,Less than bachelor's
+80000,Man,Engineer, data,6,17,4,Bachelor's
+70000,Man,Developer, full-stack,6,14,2,Bachelor's
+152000,Man,Developer, full-stack;Engineering manager,20,16,14,Bachelor's
+170000,Man,Database administrator;Designer;Developer, full-stack;Developer, QA or test;Engineer, site reliability;System administrator,18,11,11,Bachelor's
+64000,Woman,Academic researcher;Data or business analyst;Developer, front-end,10,10,7,Master's
+120000,Man,Developer, full-stack,8,19,5,Bachelor's
+31000,Man,Developer, full-stack;Student,3,19,2,Bachelor's
+114000,Woman,Developer, mobile,25,10,10,Bachelor's
+64000,Woman,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,4,19,Less than 1 year,Bachelor's
+160000,Woman,Developer, back-end;Engineer, data,5,12,2,Bachelor's
+62500,Man,Developer, back-end;Developer, front-end,5,13,2,Bachelor's
+110000,Man,Developer, back-end,11,19,7,Bachelor's
+147700,Woman,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,15,15,9,Master's
+180000,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,15,14,8,Master's
+65000,Man,Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,9,13,Less than 1 year,Bachelor's
+2e+05,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,14,22,11,Master's
+135000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;Engineer, data;System administrator,39,19,32,Master's
+155000,Man,DevOps specialist,10,6,10,Bachelor's
+98000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, game or graphics,15,12,9,Master's
+1e+05,Man,Data scientist or machine learning specialist,8,19,3,Bachelor's
+88000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics,11,15,8,Bachelor's
+142000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,4,15,3,Bachelor's
+93000,Man,Designer;Developer, back-end,27,19,23,Bachelor's
+58000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,5,24,3,Less than bachelor's
+70000,Woman,Developer, full-stack,6,16,2,Bachelor's
+86000,Man,Data or business analyst,32,19,31,Master's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, mobile,7,16,5,Master's
+90000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,6,43,5,Less than bachelor's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,8,12,7,Less than bachelor's
+70700,Woman,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,1,29,Less than 1 year,Bachelor's
+120000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Engineering manager,14,19,10,Bachelor's
+81995,Man,Developer, full-stack,7,15,5,Less than bachelor's
+350000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, back-end;Engineering manager;Scientist,25,12,14,PhD
+120000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, full-stack;Developer, mobile;DevOps specialist;System administrator,20,10,18,Bachelor's
+1e+05,Man,Developer, full-stack,22,15,18,Bachelor's
+80000,Man,Developer, full-stack;Developer, QA or test,8,14,1,Bachelor's
+125000,Man,Developer, full-stack,42,14,38,Bachelor's
+52000,Man,Developer, full-stack;System administrator,4,17,1,Bachelor's
+250000,Man,Developer, full-stack,15,12,10,Master's
+72000,Woman,Data scientist or machine learning specialist,3,23,Less than 1 year,Master's
+92000,Man,Developer, back-end;Developer, full-stack,10,15,7,Bachelor's
+106000,Man,Database administrator;Designer;Developer, full-stack,22,31,19,Bachelor's
+76000,Man,Developer, mobile;Developer, QA or test,26,20,24,Bachelor's
+140000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,25,12,13,Bachelor's
+86000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,7,19,6,Less than bachelor's
+135000,Man,Developer, back-end,12,16,10,Bachelor's
+71000,Man,Developer, back-end,11,14,5,Bachelor's
+75000,Man,Developer, back-end;Scientist,9,14,5,Bachelor's
+79200,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;Engineer, site reliability;Scientist,15,11,2,PhD
+109000,Woman,Developer, full-stack;Engineer, data,4,22,Less than 1 year,Master's
+85000,Woman,Database administrator;Engineer, data,10,16,5,Bachelor's
+140000,Man,Developer, back-end;Developer, QA or test,42,20,38,Master's
+65000,Man,Developer, desktop or enterprise applications;Developer, full-stack,6,15,3,Bachelor's
+135000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,6,21,4,Master's
+65000,Woman,Developer, desktop or enterprise applications;Developer, full-stack;Developer, mobile,15,12,9,Master's
+120000,Man,Developer, full-stack,29,12,25,Bachelor's
+82000,Man,Developer, full-stack,7,18,5,Master's
+77000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;System administrator,9,18,7,Bachelor's
+76000,Man,Developer, full-stack,2,19,Less than 1 year,Bachelor's
+132000,Man,Developer, back-end;Developer, embedded applications or devices;DevOps specialist;Engineer, site reliability;System administrator,16,6,12,Less than bachelor's
+150000,Man,Developer, front-end;Developer, full-stack,32,12,NA,Bachelor's
+212750,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist,31,10,20,Bachelor's
+85000,Man,Developer, back-end;Developer, full-stack;Engineer, data,7,12,2,Bachelor's
+150000,Man,System administrator,20,10,10,Less than bachelor's
+86000,Man,Academic researcher;Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Scientist,15,23,7,Bachelor's
+182000,Man,Developer, back-end,10,13,2,Bachelor's
+70000,Man,Academic researcher;Data or business analyst;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Educator;Scientist;Senior executive/VP;Student,2,23,Less than 1 year,Bachelor's
+2e+05,Woman,Engineering manager,14,11,8,Less than bachelor's
+108500,Man,Developer, full-stack,28,19,28,Bachelor's
+95000,Man,Developer, full-stack;DevOps specialist;System administrator,18,18,18,Bachelor's
+70000,Woman,Developer, front-end;Developer, full-stack;Developer, mobile,2,18,2,Less than bachelor's
+117000,Woman,Developer, full-stack,4,28,3,Bachelor's
+96000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineer, data;Engineer, site reliability;Engineering manager;System administrator,23,12,23,Bachelor's
+82000,Man,Developer, embedded applications or devices,5,17,2,Bachelor's
+70000,Man,Developer, front-end,4,21,Less than 1 year,Bachelor's
+250000,Man,Developer, back-end;Developer, full-stack,15,14,10,Master's
+123000,Man,Developer, full-stack,12,28,10,Less than bachelor's
+193000,Man,Data scientist or machine learning specialist;Developer, back-end;Engineer, data,30,21,26,Master's
+96000,Man,Developer, back-end;Developer, mobile;DevOps specialist;System administrator,29,12,15,Bachelor's
+155000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist;System administrator,28,15,28,Less than bachelor's
+130000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Scientist,14,20,10,PhD
+175000,Man,Developer, back-end,27,18,23,Bachelor's
+50000,Man,Developer, back-end;Developer, full-stack;Developer, QA or test;System administrator,12,16,Less than 1 year,Less than bachelor's
+90000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Educator;Engineer, data,9,12,3,Master's
+110000,Man,Developer, full-stack,10,18,6,Less than bachelor's
+240000,Man,Data scientist or machine learning specialist,14,14,3,Master's
+150000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,7,15,7,Less than bachelor's
+260000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,8,16,6,Master's
+195000,Man,Developer, back-end;Developer, full-stack;Product manager,18,7,7,Bachelor's
+210000,Man,Data scientist or machine learning specialist;Engineer, data,21,15,8,Bachelor's
+1e+05,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics,9,13,2,Bachelor's
+60000,Man,Developer, full-stack,13,12,4,Bachelor's
+88000,Man,Developer, front-end,12,15,9,Less than bachelor's
+115000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,20,12,20,Bachelor's
+105000,Man,Developer, full-stack,10,16,8,Bachelor's
+52000,Woman,Developer, full-stack,2,11,2,Bachelor's
+85000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,4,16,3,Less than bachelor's
+70000,Man,Developer, full-stack,5,17,5,Bachelor's
+1e+05,Man,Designer;Product manager,37,10,17,Less than bachelor's
+112000,Man,Designer;Developer, front-end;Educator;Marketing or sales professional,12,20,10,Less than bachelor's
+50000,Man,Developer, back-end;Developer, full-stack;Developer, mobile,10,10,2,Less than bachelor's
+50000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,7,13,1,Less than bachelor's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,25,11,3,Master's
+130000,Man,Data scientist or machine learning specialist,16,22,16,Bachelor's
+175000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, mobile,21,21,19,Bachelor's
+150000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data,12,14,8,Bachelor's
+70000,Man,Developer, front-end;Developer, full-stack;Developer, QA or test;Product manager,4,20,3,Master's
+122000,Man,Developer, full-stack,30,18,30,Bachelor's
+1e+05,Man,Developer, full-stack,7,14,6,Master's
+141000,Man,Developer, back-end;Engineer, site reliability;Engineering manager,18,12,13,Master's
+4e+05,Man,Senior executive/VP,40,11,30,Master's
+142000,Man,Developer, desktop or enterprise applications;Developer, front-end;DevOps specialist;Engineering manager,35,16,30,Bachelor's
+105000,Man,Data scientist or machine learning specialist;Developer, full-stack;Student,6,12,5,Master's
+120000,Man,Developer, desktop or enterprise applications;Developer, front-end,20,7,10,Less than bachelor's
+120000,Man,NA,10,20,10,Bachelor's
+175000,Man,Database administrator,35,12,30,Less than bachelor's
+120000,Man,Developer, back-end;System administrator,29,15,29,Bachelor's
+87420,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Product manager,10,12,6,Bachelor's
+74000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, game or graphics;Developer, mobile,12,11,4,Bachelor's
+150000,Man,Developer, full-stack;Engineer, site reliability,7,21,5,Bachelor's
+170000,Man,Developer, back-end;Developer, full-stack,35,12,10,Bachelor's
+85300,Man,Designer;Developer, front-end,20,17,8,Less than bachelor's
+78600,Man,Developer, embedded applications or devices;Developer, full-stack;Developer, mobile,9,13,4,Bachelor's
+86000,Man,Developer, front-end,3,34,3,Bachelor's
+74200,Man,Developer, back-end;Developer, desktop or enterprise applications,10,17,4,Less than bachelor's
+40000,Man,Designer;Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, QA or test,18,12,4,Bachelor's
+114000,Man,Developer, desktop or enterprise applications;DevOps specialist,18,26,18,Bachelor's
+142000,Man,Academic researcher;Data scientist or machine learning specialist;Scientist,35,15,20,PhD
+110000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,Less than 1 year,17,Less than 1 year,Bachelor's
+127000,Man,Developer, full-stack,10,13,5,Bachelor's
+150000,Man,Database administrator;Developer, back-end;DevOps specialist,14,9,12,Master's
+150000,Man,Developer, back-end,30,14,25,Bachelor's
+88000,Man,Developer, full-stack,10,14,4,Bachelor's
+120000,Man,Developer, back-end;DevOps specialist;System administrator,15,14,7,Less than bachelor's
+105000,Woman,Developer, back-end;Engineer, data,4,8,3,Master's
+68000,Man,Developer, back-end;Developer, full-stack,10,15,2,Bachelor's
+1e+05,Woman,Developer, front-end,6,20,3,Bachelor's
+60000,Man,Developer, full-stack,2,21,Less than 1 year,Bachelor's
+165000,Woman,Designer;Developer, front-end;Marketing or sales professional,9,16,NA,Bachelor's
+123000,Woman,Developer, back-end;Developer, full-stack;Developer, mobile,35,13,29,Master's
+180000,Woman,Developer, back-end;Developer, desktop or enterprise applications,8,8,3,Master's
+75000,Man,Developer, full-stack,11,13,9,Bachelor's
+360000,Man,Developer, back-end,24,9,18,Master's
+60000,Man,Developer, full-stack,13,15,9,Less than bachelor's
+1e+05,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Product manager;System administrator,6,20,3,Bachelor's
+2e+05,Woman,Developer, front-end;Developer, full-stack,15,12,12,Bachelor's
+135000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,10,5,7,Less than bachelor's
+87000,Man,Developer, full-stack;Developer, QA or test,12,12,5,Less than bachelor's
+96000,Man,Developer, QA or test,10,11,5,Bachelor's
+74500,Man,Developer, back-end;Developer, QA or test,6,18,2,Bachelor's
+250000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, site reliability;System administrator,18,10,15,Less than bachelor's
+120000,Woman,Developer, full-stack,18,13,6,Bachelor's
+110000,Man,Developer, QA or test;DevOps specialist;System administrator,23,7,18,Bachelor's
+110000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,14,14,12,Bachelor's
+105000,Man,Developer, back-end;Developer, full-stack;Developer, mobile,7,11,3,Bachelor's
+180000,Man,Developer, back-end,25,7,15,Less than bachelor's
+1e+05,Woman,Developer, full-stack,4,15,4,Bachelor's
+120000,Man,Developer, front-end;Developer, full-stack,9,21,5,Bachelor's
+115000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,12,12,7,Bachelor's
+140000,Man,Data scientist or machine learning specialist;Scientist,20,10,10,PhD
+106000,Man,Developer, full-stack,9,10,5,Bachelor's
+35000,Woman,Data or business analyst;Designer;Developer, front-end,7,14,5,Bachelor's
+60000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,26,12,8,Bachelor's
+104000,Man,Developer, full-stack,9,16,7,Less than bachelor's
+112000,Man,Developer, back-end;Developer, full-stack,3,15,2,Bachelor's
+220000,Man,Developer, back-end;DevOps specialist;System administrator,19,13,11,Bachelor's
+180000,Man,Developer, back-end;DevOps specialist;Product manager,20,12,9,Bachelor's
+80000,Man,Developer, full-stack,5,19,3,Bachelor's
+162000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;DevOps specialist;Engineering manager,24,12,14,Less than bachelor's
+75000,Woman,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;System administrator,5,13,3,Bachelor's
+4e+05,Woman,Developer, full-stack,20,11,10,Bachelor's
+87000,Man,Developer, full-stack,5,10,4,Bachelor's
+95000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, game or graphics;Developer, mobile,15,13,15,Less than bachelor's
+90000,Woman,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,4,12,2,Bachelor's
+70000,Man,Developer, full-stack;Developer, mobile;Developer, QA or test,12,12,3,Master's
+101400,Man,Data scientist or machine learning specialist;Developer, back-end;Engineer, data;Senior executive/VP,29,9,25,Less than bachelor's
+80000,Man,Developer, front-end;Developer, mobile,3,25,2,Bachelor's
+45000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Educator;System administrator,8,9,4,Bachelor's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,4,21,1,Master's
+92000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,22,16,NA,Bachelor's
+105000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;System administrator,26,13,18,Less than bachelor's
+125000,Man,Database administrator;Developer, back-end,10,8,10,Bachelor's
+85000,Man,Developer, full-stack,15,15,6,Bachelor's
+165000,Man,Developer, full-stack,11,12,8,Bachelor's
+3e+05,Man,Developer, front-end;Developer, full-stack,16,15,8,Master's
+3e+05,Man,Data scientist or machine learning specialist;Scientist,14,14,12,Master's
+145000,Woman,Developer, back-end,7,19,5,Bachelor's
+130000,Man,Academic researcher;Engineering manager,30,17,30,PhD
+80000,Man,Developer, full-stack,8,13,6,Bachelor's
+78000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;Student,4,14,Less than 1 year,Bachelor's
+106000,Man,Developer, back-end,15,6,13,Less than bachelor's
+60000,Man,Developer, front-end;Developer, mobile;Engineering manager,9,17,7,Bachelor's
+125000,Man,Developer, full-stack,8,16,5,Bachelor's
+99000,Man,Developer, embedded applications or devices;Developer, full-stack,5,15,5,Bachelor's
+160000,Man,Database administrator;Developer, back-end,40,13,32,Less than bachelor's
+150000,Man,Developer, QA or test;DevOps specialist;Engineer, data,27,19,27,Master's
+140000,Man,Developer, back-end;Developer, full-stack,20,11,11,Bachelor's
+75000,Man,Designer;Developer, full-stack,4,13,3,Bachelor's
+115000,Man,Developer, back-end;Developer, full-stack;Developer, mobile;DevOps specialist;Engineer, site reliability,15,15,13,Bachelor's
+98810,Man,Developer, front-end;Student,6,14,2,Bachelor's
+110000,Man,Developer, back-end,6,17,3,Bachelor's
+130000,Man,Developer, full-stack,10,Younger than 5 years,7,Less than bachelor's
+68000,Man,Developer, front-end;Developer, full-stack,1,15,Less than 1 year,Bachelor's
+159000,Woman,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,6,29,5,Bachelor's
+170000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, site reliability,8,12,3,Bachelor's
+90000,Man,Developer, full-stack,7,19,4,Bachelor's
+1e+05,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist;System administrator,20,20,18,Less than bachelor's
+63500,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,7,14,1,Bachelor's
+80000,Man,Developer, full-stack,13,16,9,Bachelor's
+91000,Man,Developer, back-end,9,8,3,Bachelor's
+110000,Man,Developer, mobile,7,13,5,Bachelor's
+50000,Woman,Developer, full-stack,1,23,1,Bachelor's
+182600,Man,Developer, mobile,17,12,9,Bachelor's
+139000,Man,Developer, front-end;Developer, full-stack,17,11,12,Bachelor's
+78000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Scientist,17,13,5,Bachelor's
+70000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, mobile,5,14,4,Bachelor's
+80000,Man,Data or business analyst;System administrator,4,25,1,Bachelor's
+55000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,4,24,2,Less than bachelor's
+165000,Man,Engineering manager,24,16,12,Bachelor's
+162000,Man,Developer, back-end;Developer, full-stack,15,19,12,Master's
+113000,Man,Developer, desktop or enterprise applications,25,8,16,Bachelor's
+150000,Man,Scientist,37,17,33,Bachelor's
+80000,Man,Developer, full-stack,13,12,6,Bachelor's
+110000,Man,Developer, full-stack,17,14,13,Bachelor's
+125000,Man,Developer, full-stack;DevOps specialist;Scientist,10,11,6,Less than bachelor's
+150000,Man,Academic researcher;Designer;Developer, back-end;Developer, embedded applications or devices;Developer, mobile;Developer, QA or test;Scientist,11,7,7,PhD
+108000,Man,Database administrator;Designer;Developer, front-end;Developer, full-stack;Developer, mobile;Engineer, data;System administrator,11,13,7,Bachelor's
+180000,Man,Designer;Developer, front-end;Product manager,16,16,10,Bachelor's
+95000,Man,Developer, full-stack;DevOps specialist;Engineer, site reliability;System administrator,13,14,6,Bachelor's
+110000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;Educator;System administrator,20,25,20,NA
+66000,Man,Developer, full-stack,4,18,2,Less than bachelor's
+118000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, mobile,13,11,9,Bachelor's
+145000,Man,Developer, back-end;Developer, full-stack,19,12,8,Bachelor's
+70000,Woman,Developer, back-end,3,11,1,Bachelor's
+150000,Man,Developer, back-end;Developer, full-stack,20,10,5,Bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications,8,12,1,Bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, mobile,28,8,20,Bachelor's
+106500,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,38,10,16,Less than bachelor's
+185000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, data;Engineer, site reliability;Engineering manager;Marketing or sales professional;Product manager,22,10,13,Professional
+135000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Engineer, data,35,15,28,Master's
+84000,Man,Data or business analyst,4,32,1,Bachelor's
+112000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist,14,18,10,Bachelor's
+1e+05,Man,Developer, full-stack,3,19,2,Bachelor's
+160000,Man,Data scientist or machine learning specialist,20,14,10,Master's
+93000,Man,Developer, full-stack;Student,11,18,7,Bachelor's
+83000,Man,Academic researcher;Developer, full-stack;Student,11,7,4,Bachelor's
+170000,Man,Developer, embedded applications or devices,28,14,25,Bachelor's
+104000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, data;Engineering manager,21,14,11,Bachelor's
+148000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, full-stack;Developer, game or graphics;Developer, mobile;DevOps specialist;Scientist,13,12,1,Master's
+120000,Man,Developer, game or graphics;DevOps specialist;Engineering manager,10,10,10,Bachelor's
+84000,Woman,Academic researcher;Database administrator;Developer, back-end;System administrator,10,10,3,Less than bachelor's
+120000,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist;Product manager;Senior executive/VP,50,15,45,Master's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,14,19,7,Bachelor's
+225000,Man,Designer;Developer, full-stack;Product manager;Senior executive/VP,30,8,25,Bachelor's
+95000,Man,Developer, QA or test,8,15,4,Bachelor's
+120000,Man,Developer, back-end;Developer, full-stack;Developer, mobile;Student,7,12,3,Bachelor's
+76958,Man,Developer, back-end;Developer, front-end,8,25,3,Bachelor's
+120000,Man,Developer, full-stack,4,19,2,Bachelor's
+84000,Man,Developer, front-end,8,14,5,Bachelor's
+1e+05,Woman,Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;Engineer, data,3,15,2,Master's
+85000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,18,6,13,Bachelor's
+140000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,27,14,23,Bachelor's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,10,13,4,Bachelor's
+87000,Man,Developer, front-end,12,10,12,Bachelor's
+110000,Man,Data or business analyst;DevOps specialist;Engineer, data;System administrator,11,12,3,Bachelor's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,15,11,15,Bachelor's
+1e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist;Engineer, data;System administrator,30,10,10,Master's
+80000,Man,Data scientist or machine learning specialist;Designer;Developer, desktop or enterprise applications;Product manager,9,14,4,Bachelor's
+135000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,22,11,20,Bachelor's
+82000,Man,Developer, desktop or enterprise applications;Developer, full-stack,13,13,5,Bachelor's
+1e+05,Man,Developer, full-stack,5,19,3,Bachelor's
+80000,Man,Designer;Developer, front-end;Developer, mobile,6,16,3,Bachelor's
+50000,Man,Developer, front-end,2,14,1,Bachelor's
+80000,Man,Database administrator;Developer, full-stack,8,14,4,Bachelor's
+290000,Man,Developer, full-stack;Engineer, site reliability,16,14,11,Master's
+140000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;System administrator,16,16,12,Bachelor's
+115000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,22,9,21,Bachelor's
+106000,Man,Developer, back-end;Developer, full-stack,6,18,3,Bachelor's
+150000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile,10,12,6,Master's
+90000,Man,Developer, back-end;Developer, embedded applications or devices,6,19,4,Bachelor's
+102000,Man,Developer, full-stack,11,16,5,Bachelor's
+83800,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,11,15,2,Master's
+140000,Man,Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist;System administrator,17,30,15,Bachelor's
+170000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,34,11,25,Bachelor's
+250000,Man,Developer, back-end,15,13,7,Bachelor's
+69300,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;System administrator,12,16,6,Less than bachelor's
+60000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;System administrator,9,16,8,Bachelor's
+145000,Woman,Developer, full-stack,18,14,12,Master's
+2e+05,Man,Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;Engineering manager;Product manager;Senior executive/VP;System administrator,25,10,15,Less than bachelor's
+147000,Man,Developer, full-stack;DevOps specialist;System administrator,12,11,6,Bachelor's
+90000,Man,Developer, back-end;DevOps specialist;Engineering manager;System administrator,23,8,11,Less than bachelor's
+85000,Woman,Data or business analyst;Database administrator;Developer, back-end;Developer, full-stack;Engineer, data,4,19,3,Less than bachelor's
+72500,Man,Developer, desktop or enterprise applications;Developer, full-stack,Less than 1 year,30,Less than 1 year,Less than bachelor's
+88000,Man,Developer, full-stack,12,16,4,Bachelor's
+87000,Woman,Developer, front-end;Developer, full-stack,6,19,5,Bachelor's
+150000,Man,Developer, front-end;Developer, full-stack,9,12,4,Bachelor's
+175000,Man,Developer, back-end,26,12,10,Master's
+123000,Woman,Developer, back-end;Developer, full-stack;Developer, QA or test,20,12,12,Master's
+275000,Man,Developer, back-end,16,11,7,Bachelor's
+105000,Woman,Developer, front-end,3,35,3,Master's
+350000,Woman,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Educator;Scientist;Student,20,8,10,Master's
+125000,Man,Developer, back-end,15,12,10,Master's
+135000,Woman,Developer, full-stack,10,17,7,Bachelor's
+72500,Man,Developer, back-end;Developer, full-stack,4,11,3,Bachelor's
+115000,Man,Developer, full-stack,19,15,11,Bachelor's
+175000,Man,Developer, full-stack,30,12,18,Master's
+85000,Man,Developer, full-stack,6,18,4,Bachelor's
+225000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Engineering manager;Senior executive/VP,38,12,28,Bachelor's
+40000,Man,Developer, desktop or enterprise applications;Developer, full-stack,4,12,2,Less than bachelor's
+225000,Man,NA,10,12,8,Master's
+140000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,18,16,12,Bachelor's
+55000,Man,Data or business analyst;Database administrator;Developer, full-stack,4,16,4,Master's
+145500,Man,Developer, full-stack;DevOps specialist;Engineering manager,27,12,17,Master's
+60000,Man,Engineer, data,34,5,20,PhD
+121000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,14,13,9,Less than bachelor's
+175000,Man,NA,30,12,25,Less than bachelor's
+78000,Man,Developer, back-end,8,16,4,Bachelor's
+94000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,16,9,9,Bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,23,18,20,Master's
+175000,Man,Developer, back-end,7,16,3,Bachelor's
+55000,Man,Developer, full-stack,20,8,6,PhD
+155000,Man,Developer, front-end,17,10,12,Bachelor's
+35000,Woman,Developer, front-end,3,18,Less than 1 year,Less than bachelor's
+83000,Man,Developer, front-end;Developer, full-stack,1,13,Less than 1 year,Master's
+150000,Man,Designer;Developer, full-stack,6,18,3,Bachelor's
+80000,Man,Developer, front-end,4,15,3,Bachelor's
+1e+05,Man,Developer, full-stack,15,18,15,Bachelor's
+120000,Man,Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,9,19,6,Bachelor's
+72000,Woman,Developer, front-end,4,18,Less than 1 year,Bachelor's
+160000,Woman,Developer, front-end;Developer, full-stack;Educator,14,10,7,Bachelor's
+70000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,5,16,1,Bachelor's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, data,9,17,8,Bachelor's
+2e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,23,15,17,Less than bachelor's
+1e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack,10,7,7,Bachelor's
+240000,Man,Developer, embedded applications or devices,20,15,19,Master's
+87000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,11,15,8,Bachelor's
+105000,Man,Developer, front-end;Developer, full-stack;System administrator,30,12,20,Less than bachelor's
+130000,Woman,Developer, front-end;Developer, full-stack,9,23,9,Master's
+87000,Woman,Developer, front-end,5,30,4,Bachelor's
+85000,Man,Developer, desktop or enterprise applications;Developer, QA or test,10,18,3,Bachelor's
+116000,Man,Developer, back-end;Developer, full-stack;Product manager,21,19,20,Bachelor's
+70000,Man,Developer, full-stack,15,14,1,Bachelor's
+124611,Man,Developer, full-stack,24,14,22,Less than bachelor's
+70000,Man,Data scientist or machine learning specialist;Developer, back-end;DevOps specialist;Engineer, data;Engineer, site reliability,8,18,3,Bachelor's
+336000,Man,Developer, full-stack;Engineering manager;Product manager;Senior executive/VP,15,10,5,Bachelor's
+58500,Man,Developer, full-stack;Developer, QA or test,16,7,2,Less than bachelor's
+269000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,22,13,19,Bachelor's
+140000,Man,Developer, front-end,19,16,16,Less than bachelor's
+77500,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Student,5,15,3,Bachelor's
+275000,Man,Developer, back-end,7,18,4,Master's
+129000,Man,Developer, front-end,15,16,9,Less than bachelor's
+35000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,10,7,2,Less than bachelor's
+150000,Man,Developer, full-stack,20,9,15,Master's
+90000,Man,Developer, back-end;System administrator,2,24,2,Master's
+123500,Man,Data scientist or machine learning specialist;Developer, back-end;DevOps specialist;Engineer, data,14,14,5,Bachelor's
+70000,Man,Developer, full-stack;DevOps specialist;Product manager,28,12,25,Less than bachelor's
+157000,Man,Developer, front-end,10,23,9,Bachelor's
+135000,Man,Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineer, site reliability;System administrator,20,6,12,Master's
+80000,Man,Developer, full-stack;Engineering manager,20,11,8,Master's
+220000,Man,Developer, back-end,25,8,20,Less than bachelor's
+105000,Man,Academic researcher;Data or business analyst;Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,19,17,16,Bachelor's
+70000,Man,Developer, back-end;Developer, desktop or enterprise applications,9,21,3,Bachelor's
+41000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Educator,14,25,10,Less than bachelor's
+86500,Man,Developer, mobile,9,18,5,Bachelor's
+60000,Woman,Developer, full-stack,2,35,1,Less than bachelor's
+1e+05,Man,Developer, full-stack,14,15,8,Bachelor's
+133000,Man,Developer, full-stack;DevOps specialist,12,17,10,Bachelor's
+170000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Engineering manager,17,14,13,Less than bachelor's
+135000,Man,NA,18,25,Less than 1 year,Bachelor's
+50720,Man,Database administrator;Designer;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist,7,18,3,Bachelor's
+125000,Man,Developer, back-end;Developer, front-end,20,9,5,Bachelor's
+57000,Man,Developer, desktop or enterprise applications;Developer, front-end;Engineer, site reliability;System administrator,20,12,12,Bachelor's
+76500,Man,Developer, full-stack,3,16,2,Bachelor's
+75000,Man,Developer, back-end;Developer, desktop or enterprise applications,15,12,4,Master's
+103000,Man,Developer, full-stack,13,14,7,Master's
+1e+05,Man,Data or business analyst;Developer, full-stack;Marketing or sales professional,9,19,7,Bachelor's
+90000,Man,NA,47,17,42,Bachelor's
+40000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Educator,3,23,2,Less than bachelor's
+180000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist,21,12,18,Master's
+87000,Woman,Developer, back-end;Developer, front-end;Engineer, site reliability;Marketing or sales professional,6,18,Less than 1 year,Master's
+105000,Man,Developer, embedded applications or devices,10,12,5,Bachelor's
+33000,Man,Academic researcher;Student,11,9,5,Master's
+240000,Man,Senior executive/VP,12,17,10,Master's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications,30,17,30,Less than bachelor's
+467000,Woman,Designer;Developer, front-end;Developer, full-stack,12,12,10,Bachelor's
+88000,Man,Developer, mobile,8,25,5,Bachelor's
+72800,Man,Developer, full-stack,16,12,5,Bachelor's
+3e+05,Man,Developer, full-stack,37,10,30,Master's
+130000,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Developer, full-stack;Product manager;Scientist,7,20,4,Master's
+205000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,37,12,26,Bachelor's
+160000,Man,Developer, front-end;Developer, full-stack,11,18,8,Master's
+176230,Man,Developer, full-stack,20,10,15,Less than bachelor's
+60000,Man,Developer, front-end;Developer, full-stack,10,8,Less than 1 year,Master's
+1e+05,Man,Developer, back-end;Developer, desktop or enterprise applications,17,31,10,Bachelor's
+1e+05,Man,Academic researcher;Data scientist or machine learning specialist;Developer, back-end;Developer, desktop or enterprise applications;Educator;Scientist,32,10,11,PhD
+67000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,44,12,35,Master's
+80000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,22,15,12,Bachelor's
+135000,Woman,Developer, front-end,12,18,9,Master's
+184678,Man,Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;Engineer, site reliability,17,13,13,Master's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;Product manager;System administrator,44,19,44,Bachelor's
+1e+05,Man,Academic researcher;Database administrator;Designer;Developer, full-stack;Developer, QA or test;DevOps specialist;Product manager,6,16,2,Bachelor's
+123000,Woman,NA,22,13,2,Bachelor's
+81000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;System administrator,40,17,35,Bachelor's
+124000,Man,Developer, back-end;Developer, embedded applications or devices,16,12,12,Master's
+55000,Man,Data or business analyst;Database administrator;DevOps specialist;System administrator,6,19,2,Bachelor's
+99000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile,11,5,7,Bachelor's
+170000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,6,16,Less than 1 year,Bachelor's
+85000,Woman,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,2,15,1,Less than bachelor's
+95000,Man,Data scientist or machine learning specialist;Developer, back-end;Engineer, data,3,25,1,Bachelor's
+85000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,15,10,10,Less than bachelor's
+154000,Woman,Developer, front-end;Developer, full-stack;Developer, game or graphics,9,13,7,Bachelor's
+275000,Man,Developer, back-end,24,16,23,Bachelor's
+102000,Man,Developer, mobile,13,16,8,Bachelor's
+106000,Man,Developer, back-end,5,18,4,Bachelor's
+95000,Woman,Educator,4,13,4,Bachelor's
+83336,Man,Developer, full-stack,10,13,3,Bachelor's
+80000,Man,Developer, front-end;Developer, mobile,4,22,2,Less than bachelor's
+250000,Man,Developer, desktop or enterprise applications,12,12,6,Master's
+60000,Man,Developer, full-stack,7,17,4,Less than bachelor's
+183000,Man,Developer, QA or test,15,12,7,Less than bachelor's
+130000,Man,Developer, back-end;DevOps specialist,15,11,4,Bachelor's
+140000,Man,Developer, back-end;Developer, full-stack,14,12,10,Bachelor's
+120000,Man,Developer, desktop or enterprise applications,9,15,3,Bachelor's
+4e+05,Man,Developer, back-end,19,16,15,Master's
+32000,Man,NA,3,14,1,Less than bachelor's
+2e+05,Man,Developer, front-end,4,18,4,Less than bachelor's
+130000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;System administrator,11,12,7,Bachelor's
+1e+05,Man,NA,7,16,4,Bachelor's
+185000,Man,Developer, full-stack,12,16,7,Bachelor's
+1e+05,Woman,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,4,19,2,Less than bachelor's
+150000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, full-stack,20,15,15,Master's
+40000,Man,Developer, desktop or enterprise applications,20,11,15,Master's
+110000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,15,14,5,Bachelor's
+95000,Man,Developer, front-end,2,5,2,Master's
+85000,Man,Developer, back-end,10,15,2,Bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;System administrator,34,7,22,Less than bachelor's
+140000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,15,11,11,Bachelor's
+110000,Man,Developer, back-end;Engineer, data,7,15,7,Bachelor's
+225000,Man,Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;Engineer, data;Engineering manager;Product manager,27,7,23,Master's
+1e+06,Man,Developer, back-end,20,15,8,Less than bachelor's
+75000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,25,12,8,Less than bachelor's
+85000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Engineer, data,12,14,6,Bachelor's
+180000,Man,Developer, desktop or enterprise applications;Developer, full-stack;Developer, game or graphics;DevOps specialist;Engineer, site reliability;Engineering manager;Product manager;System administrator,18,17,18,Bachelor's
+120000,Man,Developer, full-stack,14,15,7,Bachelor's
+116000,Man,Developer, game or graphics,21,12,15,Bachelor's
+4e+05,Man,Developer, desktop or enterprise applications;Developer, full-stack,24,14,18,Less than bachelor's
+268000,Man,Developer, back-end;Developer, full-stack,12,14,8,Bachelor's
+90000,Man,Developer, full-stack;Educator;Engineer, site reliability,11,13,6,Bachelor's
+1e+05,Man,Developer, front-end,10,25,5,Less than bachelor's
+113000,Man,Developer, back-end,8,17,3,Master's
+46000,Man,NA,6,14,4,Less than bachelor's
+177000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineer, site reliability;Student,8,22,4,Master's
+187000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,37,16,35,Master's
+82000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,7,19,3,Bachelor's
+147000,Man,Developer, back-end;Developer, mobile,30,11,20,Bachelor's
+75000,Man,Developer, back-end;Developer, full-stack,3,16,2,Bachelor's
+45000,Woman,Data or business analyst,3,13,1,Master's
+125000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;System administrator,21,18,19,Less than bachelor's
+50000,Man,Designer;Developer, front-end;Developer, full-stack;Developer, QA or test,5,15,2,Bachelor's
+90000,Man,Developer, back-end;Developer, full-stack,22,19,20,Bachelor's
+90000,Man,Developer, front-end,5,16,4,Bachelor's
+2e+05,Man,Engineer, site reliability;Engineering manager;System administrator,39,12,28,Bachelor's
+175000,Man,Engineering manager,38,14,23,Bachelor's
+83000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,10,20,9,Bachelor's
+120000,Man,Academic researcher,37,11,26,PhD
+120000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist;Engineer, data;Senior executive/VP;System administrator,20,9,NA,Less than bachelor's
+80000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, full-stack;Developer, game or graphics;Developer, QA or test;System administrator,13,5,5,Less than bachelor's
+106000,Man,Developer, desktop or enterprise applications;Developer, full-stack;Developer, game or graphics,14,15,7,Master's
+106000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, game or graphics;Engineering manager,6,18,3,Bachelor's
+110000,Man,Developer, back-end,20,10,11,Bachelor's
+60000,Woman,Developer, full-stack,6,12,4,Bachelor's
+1e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,7,10,5,Bachelor's
+90000,Man,Developer, back-end;Developer, full-stack,20,23,17,Less than bachelor's
+84000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,9,15,3,Bachelor's
+1e+05,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;System administrator,15,12,8,Bachelor's
+544000,Man,Developer, back-end,40,10,30,Master's
+45000,Man,Developer, back-end;Developer, desktop or enterprise applications,10,13,3,Bachelor's
+115000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,10,16,3,Less than bachelor's
+140000,Man,Database administrator;Designer;Developer, back-end;Developer, embedded applications or devices;DevOps specialist;System administrator,48,12,40,Bachelor's
+170000,Man,Developer, full-stack,20,10,10,Bachelor's
+104750,Man,Developer, full-stack,21,18,21,Bachelor's
+67000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,7,14,1,Bachelor's
+48000,Man,Data or business analyst;Developer, full-stack,8,12,3,Less than bachelor's
+135000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Engineer, data,27,8,11,Bachelor's
+141000,Man,NA,15,11,6,Master's
+155000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile;Developer, QA or test;Engineering manager,26,9,13,Less than bachelor's
+72400,Man,Developer, back-end,19,11,7,Bachelor's
+80000,Man,Developer, desktop or enterprise applications,22,14,6,NA
+1e+05,Man,Developer, back-end,22,13,18,Master's
+90000,Man,NA,3,15,3,Less than bachelor's
+75000,Man,Developer, full-stack,4,35,3,Bachelor's
+135000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;System administrator,20,15,15,Bachelor's
+120000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;System administrator,14,15,10,Bachelor's
+167000,Man,Developer, full-stack;Engineer, data,11,19,8,Bachelor's
+130000,Man,Engineering manager,12,10,9,Bachelor's
+99000,Man,Academic researcher;Data scientist or machine learning specialist;Scientist,12,23,12,PhD
+78000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications,30,12,20,Less than bachelor's
+86000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,7,20,5,Bachelor's
+85000,Man,Developer, back-end;Developer, full-stack;Developer, mobile,23,13,20,Less than bachelor's
+115000,Man,Developer, back-end;Developer, full-stack,18,12,10,Less than bachelor's
+95000,Man,Developer, desktop or enterprise applications,35,10,30,Bachelor's
+115000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,20,10,15,Bachelor's
+121000,Man,Data scientist or machine learning specialist;Scientist,12,18,1,PhD
+185000,Man,Developer, back-end;Developer, full-stack;Engineer, data,10,17,4,Master's
+155000,Man,Developer, full-stack,11,12,8,Bachelor's
+110000,Man,Database administrator;Designer;Developer, desktop or enterprise applications;Developer, full-stack;Developer, QA or test;DevOps specialist;Engineer, site reliability;System administrator,9,18,5,Bachelor's
+65000,Man,Developer, back-end,8,10,3,Bachelor's
+160000,Man,Developer, full-stack;Engineering manager,8,10,6,Bachelor's
+79000,Man,Developer, desktop or enterprise applications,6,25,6,Master's
+144000,Man,Developer, full-stack,25,14,20,Bachelor's
+125000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,16,17,10,Bachelor's
+248400,Man,NA,12,15,8,Bachelor's
+250000,Man,Developer, mobile,10,17,9,Bachelor's
+450000,Man,Developer, back-end,30,13,25,Bachelor's
+78000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,3,20,2,Bachelor's
+110000,Man,Developer, full-stack,30,10,30,Bachelor's
+115000,Man,Data scientist or machine learning specialist;Developer, front-end;Developer, full-stack;Engineering manager,25,11,20,Less than bachelor's
+150000,Man,Developer, full-stack;DevOps specialist,6,19,5,Bachelor's
+31000,Man,Academic researcher;Scientist;Student,10,17,8,Bachelor's
+120000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,22,11,11,Bachelor's
+158000,Man,Developer, full-stack,42,14,34,Bachelor's
+143000,Man,Database administrator,10,14,7,Bachelor's
+2e+05,Man,Developer, full-stack,15,14,9,Bachelor's
+125000,Man,Developer, desktop or enterprise applications,33,18,31,Bachelor's
+120000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile,20,15,19,Bachelor's
+60000,Man,Data or business analyst;Database administrator;Developer, full-stack;Scientist,25,12,3,Master's
+250000,Man,Developer, back-end;Developer, full-stack,25,16,18,Bachelor's
+95000,Man,Developer, desktop or enterprise applications,30,6,19,Bachelor's
+1e+05,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications,28,12,23,Less than bachelor's
+75000,Woman,Developer, full-stack,23,14,2,Professional
+96000,Man,Developer, embedded applications or devices,9,18,5,Bachelor's
+120000,Man,Developer, back-end,11,13,10,Bachelor's
+143000,Man,Developer, front-end,5,16,4,Bachelor's
+95000,Man,Developer, back-end;Developer, desktop or enterprise applications,14,8,13,Less than bachelor's
+80000,Man,Data or business analyst;Database administrator,8,26,5,Bachelor's
+80000,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Developer, full-stack,10,13,8,Bachelor's
+140000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,18,12,16,Bachelor's
+110000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;System administrator,20,8,9,Less than bachelor's
+110000,Man,Academic researcher;Developer, back-end;Scientist;Student;System administrator,11,10,4,Bachelor's
+75000,Man,Designer;Developer, desktop or enterprise applications,10,16,2,Less than bachelor's
+135000,Man,Developer, mobile,6,31,4,Less than bachelor's
+40000,Man,Developer, embedded applications or devices,13,10,6,Less than bachelor's
+125000,Man,Developer, desktop or enterprise applications;Developer, front-end,5,17,2,Bachelor's
+110000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineer, data;Engineer, site reliability;Engineering manager;System administrator,23,20,20,Less than bachelor's
+66000,Man,NA,6,11,2,Bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,11,18,8,Master's
+175000,Man,Academic researcher;Database administrator;Developer, back-end;Developer, game or graphics;Developer, mobile;Developer, QA or test;Engineer, site reliability,20,14,20,Bachelor's
+113500,Man,Developer, back-end;Developer, front-end;Developer, full-stack,22,11,5,Less than bachelor's
+230000,Man,Engineering manager,13,11,13,Bachelor's
+130000,Man,Developer, front-end;Developer, full-stack,14,16,12,Bachelor's
+108000,Woman,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,28,8,14,Bachelor's
+78250,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineer, data;Engineer, site reliability;Engineering manager;System administrator,16,13,12,Less than bachelor's
+145000,Man,Developer, back-end;Developer, full-stack,4,17,3,Master's
+98000,Man,Data or business analyst;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Engineer, data,38,14,8,Less than bachelor's
+155000,Man,Developer, front-end,8,17,4,Bachelor's
+66300,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test,5,15,1,Master's
+130000,Man,Developer, full-stack;DevOps specialist,10,16,7,Bachelor's
+84000,Man,Developer, full-stack,16,20,13,Master's
+160000,Woman,Developer, mobile;Engineering manager,23,13,19,Bachelor's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineering manager,20,8,9,Bachelor's
+212500,Man,Engineer, site reliability,4,17,3,Bachelor's
+105000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, data,18,14,10,Bachelor's
+120000,Man,Academic researcher;Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, site reliability;Engineering manager;System administrator,18,11,15,Less than bachelor's
+65000,Man,Data or business analyst;Database administrator;Developer, full-stack;Developer, QA or test,9,19,5,Bachelor's
+170000,Man,Developer, back-end;Developer, desktop or enterprise applications;Engineering manager,20,6,14,Master's
+58000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,10,12,2,Bachelor's
+115000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,14,14,10,Less than bachelor's
+95000,Man,Developer, full-stack,8,19,5,Less than bachelor's
+130000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, QA or test,40,18,35,Master's
+98000,Man,Academic researcher;Engineer, data,5,18,1,Bachelor's
+102000,Man,Developer, back-end;Engineer, site reliability,11,13,8,Master's
+222000,Man,Developer, full-stack,22,17,16,Bachelor's
+1e+05,Man,Developer, back-end;Engineer, data,45,19,40,PhD
+76000,Man,Developer, full-stack;DevOps specialist,10,14,6,Bachelor's
+1e+05,Man,Developer, full-stack;Developer, mobile;Developer, QA or test,10,18,6,Bachelor's
+77250,Man,Developer, back-end;Developer, full-stack;DevOps specialist,5,18,2,Bachelor's
+110000,Man,Database administrator;Developer, back-end;DevOps specialist;Engineer, site reliability,8,16,3,Less than bachelor's
+90000,Man,Data or business analyst;Database administrator;Designer;Developer, desktop or enterprise applications;System administrator,28,8,6,Less than bachelor's
+120000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications,13,18,9,Bachelor's
+70000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test,21,8,3,Bachelor's
+190000,Man,Developer, back-end,20,10,6,PhD
+2e+05,Man,Developer, desktop or enterprise applications;Developer, full-stack,9,10,5,Master's
+99000,Woman,Developer, front-end,22,17,17,Master's
+130000,Man,Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist;System administrator,13,11,8,Master's
+160000,Man,Developer, full-stack;Engineering manager,26,5,12,Master's
+2e+05,Man,Developer, mobile,11,14,5,Bachelor's
+1e+05,Man,Data scientist or machine learning specialist;Engineer, data,5,21,4,Bachelor's
+96000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, mobile,8,28,4,Master's
+62000,Man,Developer, back-end,5,15,2,Bachelor's
+85000,Man,Database administrator;Developer, full-stack;Developer, mobile;Developer, QA or test;System administrator,11,16,11,Less than bachelor's
+102000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,13,16,7,Bachelor's
+48000,Man,Data scientist or machine learning specialist;Developer, full-stack,4,14,3,Bachelor's
+170000,Man,Developer, back-end;Developer, desktop or enterprise applications;Engineer, site reliability,3,11,3,Bachelor's
+120000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,21,14,8,Bachelor's
+120000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;System administrator,11,18,8,Master's
+126000,Man,Database administrator;Developer, back-end;DevOps specialist,20,23,15,Master's
+60000,Man,Developer, mobile,17,16,3,Less than bachelor's
+75000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,3,28,2,Less than bachelor's
+165000,Man,Data or business analyst;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;DevOps specialist,32,15,22,NA
+70000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,15,21,11,Master's
+132000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,13,11,10,Bachelor's
+120000,Man,Developer, desktop or enterprise applications,35,12,25,Bachelor's
+80100,Man,Developer, back-end,4,20,2,Bachelor's
+116000,Man,Developer, back-end,44,16,41,Bachelor's
+150000,Man,DevOps specialist;Engineer, site reliability;System administrator,27,10,11,Bachelor's
+90000,Man,Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;Product manager,4,14,2,Bachelor's
+88000,Man,Data or business analyst;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;System administrator,10,27,7,Master's
+78000,Man,Developer, back-end;Developer, full-stack;Developer, mobile;Engineering manager;System administrator,40,12,4,Less than bachelor's
+62400,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end,19,13,13,Less than bachelor's
+60000,Man,Developer, back-end,13,15,6,Less than bachelor's
+66000,Man,Designer;Developer, front-end;Developer, mobile,10,16,6,Bachelor's
+65000,Man,Developer, full-stack,4,36,2,Bachelor's
+136500,Man,Developer, full-stack;Engineering manager;Product manager;Senior executive/VP,22,10,4,Bachelor's
+65000,Woman,Developer, full-stack,12,12,6,Bachelor's
+64500,Man,Developer, front-end;Developer, full-stack,6,11,3,Bachelor's
+250000,Man,Developer, back-end;Developer, full-stack;Engineering manager,18,16,11,Master's
+129000,Man,Developer, desktop or enterprise applications;Developer, full-stack;Developer, mobile,41,9,28,Bachelor's
+122000,Woman,DevOps specialist,3,12,2,Bachelor's
+117000,Man,Developer, full-stack;Senior executive/VP;System administrator,30,10,25,Master's
+65000,Man,Developer, full-stack,4,9,2,Less than bachelor's
+70000,Woman,Data or business analyst;Data scientist or machine learning specialist;Engineer, data,6,19,3,Bachelor's
+1e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Engineer, site reliability,30,10,20,Less than bachelor's
+190000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Engineering manager;System administrator,27,9,23,Bachelor's
+103000,Man,DevOps specialist;Engineer, site reliability,11,12,8,Less than bachelor's
+90000,Man,Database administrator;Developer, full-stack,10,18,6,Master's
+55000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,5,19,1,Less than bachelor's
+99999,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,6,19,4,Bachelor's
+120000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,21,12,11,Bachelor's
+57000,Man,Developer, front-end;Developer, mobile,5,10,5,Master's
+226000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist;Engineering manager,27,11,18,Master's
+85000,Man,Developer, back-end;Developer, full-stack;Developer, mobile,12,10,7,Bachelor's
+95000,Man,Developer, full-stack;Product manager,4,16,3,Less than bachelor's
+108000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end,8,18,6,Less than bachelor's
+170000,Man,Data or business analyst;Database administrator;Developer, back-end;Engineer, data,25,14,22,Less than bachelor's
+96000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;Engineering manager;System administrator,35,8,21,Bachelor's
+106000,Man,Developer, full-stack,20,8,15,Master's
+110000,Man,Developer, full-stack,6,8,4,Bachelor's
+78000,Man,Developer, back-end;DevOps specialist,6,13,6,Bachelor's
+140000,Man,Engineering manager,18,13,14,Master's
+156000,Man,Developer, back-end,24,11,19,Bachelor's
+90000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Engineer, data,2,7,1,Bachelor's
+150000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,21,16,19,Bachelor's
+54678,Man,NA,18,14,18,Master's
+90000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,10,14,8,Bachelor's
+105000,Man,Developer, back-end;Developer, full-stack;Developer, QA or test,7,16,2,Bachelor's
+68000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;Product manager,18,12,5,Bachelor's
+190000,Man,Developer, full-stack,19,16,16,Master's
+132000,Man,Developer, desktop or enterprise applications;Engineer, site reliability;System administrator,9,18,4,Master's
+89875,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,29,13,27,Bachelor's
+93000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,9,25,8,Less than bachelor's
+55000,Man,Developer, QA or test,12,11,1,Bachelor's
+144000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,16,13,9,Bachelor's
+145000,Man,Designer;Developer, full-stack;Educator,9,15,4,Bachelor's
+65000,Man,Developer, full-stack,10,16,Less than 1 year,Bachelor's
+55000,Man,Data or business analyst,7,20,5,Bachelor's
+110000,Man,Developer, front-end;Developer, full-stack,35,11,15,Less than bachelor's
+233000,Man,Developer, back-end,23,10,20,Bachelor's
+110000,Woman,Developer, front-end,4,20,3,Bachelor's
+90000,Man,Developer, full-stack;Developer, mobile,8,18,5,Bachelor's
+125000,Man,NA,8,17,4,Bachelor's
+61079,Man,Data or business analyst;Scientist,Less than 1 year,32,Less than 1 year,Master's
+136000,Man,Database administrator,40,12,34,Bachelor's
+55000,Man,Developer, front-end;Developer, full-stack,1,24,1,Bachelor's
+52000,Man,Developer, back-end;Developer, full-stack;Scientist;System administrator,25,25,2,Professional
+88000,Man,Developer, front-end,8,18,3,Bachelor's
+95000,Man,Developer, full-stack;Developer, mobile,7,16,4,Bachelor's
+1e+05,Man,Engineering manager,9,18,5,Bachelor's
+112000,Man,Developer, back-end;DevOps specialist,22,15,22,Less than bachelor's
+924000,Man,Database administrator;Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;DevOps specialist,9,16,5,Bachelor's
+160000,Man,Developer, back-end;DevOps specialist;Engineer, data;Engineer, site reliability,17,19,14,Bachelor's
+120000,Man,Engineer, data,18,16,12,Bachelor's
+82000,Man,Database administrator;Developer, full-stack,10,15,6,Bachelor's
+90000,Man,Developer, full-stack,7,18,2,Bachelor's
+180000,Man,Developer, full-stack,19,16,14,Bachelor's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;System administrator,6,28,4,Less than bachelor's
+93000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;System administrator,12,20,8,Bachelor's
+150000,Man,Designer;Developer, front-end;Developer, full-stack;Developer, mobile,28,7,20,PhD
+105000,Man,Developer, full-stack,43,11,37,Master's
+98000,Man,Developer, full-stack,5,10,5,Bachelor's
+220000,Man,Academic researcher;Developer, back-end;Developer, embedded applications or devices;Developer, front-end;DevOps specialist;Educator;Engineering manager,40,15,32,PhD
+95000,Man,DevOps specialist,2,23,2,Master's
+1e+05,Man,Developer, full-stack,13,11,6,Bachelor's
+2e+05,Man,Academic researcher;Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;Scientist,22,10,12,PhD
+79000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;System administrator,8,15,3,Bachelor's
+65000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,3,18,1,Bachelor's
+4e+05,Man,Developer, full-stack,45,10,39,Master's
+65000,Man,Data or business analyst;Database administrator;Engineer, data;System administrator,5,16,1,Less than bachelor's
+1e+05,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Engineering manager,10,14,6,Less than bachelor's
+150000,Man,Developer, full-stack;Engineer, site reliability,15,13,10,Bachelor's
+95000,Man,Database administrator;Developer, back-end,4,28,3,Master's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,8,16,1,Master's
+82000,Man,Developer, desktop or enterprise applications;Developer, full-stack,8,16,3,Bachelor's
+135000,Man,Developer, back-end;Developer, desktop or enterprise applications,7,16,2,Bachelor's
+130000,Man,Developer, full-stack,6,14,6,Bachelor's
+1e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack,14,15,10,Bachelor's
+1e+05,Man,Data or business analyst;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist,19,16,13,Bachelor's
+124000,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, full-stack,20,17,8,Bachelor's
+160000,Man,Developer, full-stack,14,15,10,Bachelor's
+97000,Man,Developer, QA or test,38,15,24,Master's
+125000,Man,Developer, desktop or enterprise applications;Developer, full-stack,2,8,Less than 1 year,Bachelor's
+75000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,6,24,1,Less than bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,15,15,15,Bachelor's
+88825,Man,Designer;Developer, front-end,8,17,3,Bachelor's
+2e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Engineering manager,11,14,7,Less than bachelor's
+85000,Man,Developer, full-stack,5,24,3,Bachelor's
+172000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,40,18,36,Bachelor's
+220000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications,15,8,3,Bachelor's
+78000,Man,Database administrator;Engineer, data,5,26,4,Bachelor's
+93000,Woman,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,18,15,13,Bachelor's
+80000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;System administrator,20,15,13,Bachelor's
+110000,Man,Developer, full-stack,23,9,13,Bachelor's
+52000,Man,Data or business analyst,2,20,1,Bachelor's
+130000,Man,Developer, back-end;Educator,18,15,5,Less than bachelor's
+55000,Man,Developer, full-stack,2,31,1,Master's
+74500,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,12,16,9,Bachelor's
+112000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,11,7,8,Bachelor's
+90000,Man,Designer;Developer, full-stack;DevOps specialist,10,20,7,Bachelor's
+150000,Man,Developer, full-stack,16,22,10,Bachelor's
+1e+05,Woman,Developer, back-end,7,18,4,Bachelor's
+97000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack,9,16,3,Bachelor's
+59600,Man,Developer, front-end;Developer, full-stack,8,15,4,Less than bachelor's
+145000,Man,Engineering manager,21,12,10,PhD
+22000,Man,Developer, full-stack,3,16,2,Less than bachelor's
+1e+05,Man,Developer, front-end;Developer, full-stack,18,10,12,Bachelor's
+155000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;Engineering manager;Product manager;Senior executive/VP;System administrator,7,16,6,Bachelor's
+70000,Man,Developer, full-stack;Student,15,12,2,Less than bachelor's
+125000,Man,Developer, back-end;Developer, embedded applications or devices,40,10,32,Bachelor's
+60000,Woman,Developer, full-stack,1,23,Less than 1 year,Bachelor's
+40000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,6,17,2,Bachelor's
+230000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Engineer, data;Engineer, site reliability;System administrator,35,8,10,Less than bachelor's
+140000,Man,Developer, back-end;Developer, desktop or enterprise applications,30,10,20,Bachelor's
+103000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Educator;Engineer, data;Engineer, site reliability;Engineering manager;Product manager;System administrator,42,8,22,Less than bachelor's
+120000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,10,22,6,Bachelor's
+240000,Woman,Marketing or sales professional,20,9,20,Master's
+3e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack,23,12,12,Master's
+275000,Man,Senior executive/VP,16,13,NA,Bachelor's
+225000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Product manager,40,14,35,Bachelor's
+34000,Man,Academic researcher;Student,14,12,8,Master's
+145000,Man,Developer, back-end;Engineer, data,37,16,31,Bachelor's
+135000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics;Engineering manager,12,17,7,Master's
+85000,Man,Designer;Developer, full-stack;Marketing or sales professional,21,16,18,Bachelor's
+180000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, mobile;Engineering manager,16,22,10,Less than bachelor's
+117000,Man,Developer, mobile,26,9,6,Bachelor's
+87400,Man,Developer, full-stack,10,20,8,Bachelor's
+52000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack,21,10,Less than 1 year,Bachelor's
+75000,Man,Academic researcher;Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, QA or test,6,23,4,Less than bachelor's
+115000,Man,Developer, full-stack,3,12,3,Bachelor's
+72500,Man,Developer, full-stack,5,18,Less than 1 year,Bachelor's
+1e+05,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,8,18,6,Bachelor's
+115000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Engineer, data,18,12,10,Master's
+92000,Man,Developer, mobile,6,14,2,Bachelor's
+350000,Man,Developer, back-end,18,12,12,Bachelor's
+260000,Man,Developer, front-end,18,14,13,Bachelor's
+75000,Man,Database administrator;Developer, full-stack;DevOps specialist;Engineer, site reliability;Engineering manager;System administrator,10,15,4,Master's
+112500,Man,Developer, back-end,8,18,4,Master's
+78814,Man,Developer, full-stack,7,27,6,Bachelor's
+110000,Man,Designer;Developer, desktop or enterprise applications;Developer, embedded applications or devices,40,9,35,Bachelor's
+65000,Man,Developer, back-end,15,13,2,Bachelor's
+135700,Man,Developer, full-stack,6,21,6,Master's
+105000,Man,DevOps specialist,20,10,4,Bachelor's
+2e+05,Man,Developer, QA or test,16,17,16,Master's
+90000,Man,Developer, back-end;Developer, full-stack;Developer, QA or test;DevOps specialist,25,8,18,Bachelor's
+145000,Man,Developer, front-end,8,17,8,Bachelor's
+41000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,6,18,2,Bachelor's
+150000,Man,Developer, back-end;Developer, full-stack,17,18,15,Master's
+69000,Man,Designer;Developer, front-end,15,16,12,Bachelor's
+115000,Man,Developer, back-end;Developer, full-stack;Engineer, data,8,18,3,Master's
+1e+05,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Senior executive/VP,8,13,5,Less than bachelor's
+63000,Man,Developer, full-stack,14,23,10,Less than bachelor's
+140000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;Engineering manager,23,7,11,Bachelor's
+95000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,11,12,9,Less than bachelor's
+149000,Man,Developer, full-stack,9,16,4,Bachelor's
+90000,Man,Developer, desktop or enterprise applications;Developer, full-stack,5,30,3,Master's
+50700,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,4,18,2,Less than bachelor's
+105000,Man,Developer, desktop or enterprise applications,7,15,Less than 1 year,Bachelor's
+72500,Man,Developer, mobile,5,28,Less than 1 year,Bachelor's
+85000,Man,Designer;Developer, back-end;Developer, full-stack;Developer, game or graphics;Developer, mobile;DevOps specialist;Educator,12,14,10,Bachelor's
+175000,Man,Developer, full-stack,16,16,12,Bachelor's
+180000,Man,Developer, back-end;Developer, full-stack;DevOps specialist,11,16,7,Bachelor's
+135470,Man,Developer, full-stack,25,12,14,Master's
+90000,Woman,Developer, back-end,8,12,6,Bachelor's
+180000,Man,Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Engineer, data;Engineering manager,24,15,20,Bachelor's
+168000,Man,Database administrator;Developer, full-stack;DevOps specialist;Engineering manager,33,6,15,Less than bachelor's
+144620,Woman,Developer, front-end;Developer, mobile,12,9,4,Master's
+96000,Man,Developer, full-stack;Developer, QA or test,2,12,2,Bachelor's
+89000,Man,Developer, desktop or enterprise applications;Developer, mobile,7,15,2,Bachelor's
+210000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,25,9,14,Bachelor's
+70000,Man,Developer, full-stack,6,17,2,Bachelor's
+105000,Man,Developer, full-stack;Developer, game or graphics;Developer, mobile,26,12,15,Master's
+1e+05,Man,Data or business analyst;Educator;Student,5,22,2,Bachelor's
+167000,Man,Developer, full-stack;Developer, mobile,35,14,30,Less than bachelor's
+130000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist,25,12,24,Bachelor's
+84000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,13,12,3,Bachelor's
+122500,Man,Developer, back-end;Developer, front-end;Developer, full-stack,16,15,12,Bachelor's
+45000,Man,Designer;Developer, front-end;System administrator,17,13,7,Bachelor's
+111000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,14,15,6,Bachelor's
+160000,Man,Developer, back-end,6,25,4,Bachelor's
+84000,Woman,Developer, full-stack,7,13,4,Bachelor's
+175000,Man,Data scientist or machine learning specialist;Product manager;Senior executive/VP,6,14,6,Master's
+110000,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data;Scientist;System administrator,18,14,8,Bachelor's
+125000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist;Senior executive/VP,28,11,24,Bachelor's
+130000,Woman,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Marketing or sales professional;System administrator,23,20,23,Bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,7,17,5,Bachelor's
+99973,Man,Developer, full-stack,13,17,9,Bachelor's
+57250,Man,Data or business analyst,3,21,2,Master's
+125000,Man,Developer, back-end;Developer, game or graphics,10,10,2,Bachelor's
+125000,Man,Developer, back-end;Developer, full-stack,10,19,4,Master's
+149500,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,4,8,4,Bachelor's
+120000,Man,Designer,3,18,1,Bachelor's
+70000,Man,Developer, back-end;Developer, full-stack,7,17,4,Bachelor's
+185000,Man,Developer, full-stack,7,14,3,Bachelor's
+1e+05,Man,Developer, desktop or enterprise applications;Developer, front-end;Developer, game or graphics;Developer, mobile;Engineering manager,38,28,36,Bachelor's
+75000,Man,Developer, back-end;Engineer, site reliability,14,13,2,Bachelor's
+240000,Man,Developer, back-end;Developer, front-end;Engineer, site reliability;Engineering manager,27,12,17,Master's
+110000,Man,Developer, full-stack;Developer, mobile,15,13,15,Less than bachelor's
+105000,Man,Developer, full-stack,22,10,19,Master's
+69000,Man,Developer, front-end,6,10,3,Bachelor's
+100010,Man,Developer, back-end;DevOps specialist;Engineer, data,11,18,7,Bachelor's
+140000,Man,Developer, full-stack,16,12,15,Less than bachelor's
+84460,Man,Developer, full-stack,5,21,5,Bachelor's
+75000,Woman,Developer, full-stack,39,12,22,Master's
+155000,Man,Developer, back-end,11,14,8,Bachelor's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,16,12,8,Less than bachelor's
+250000,Man,Developer, full-stack,12,14,11,Master's
+115000,Man,Database administrator;Developer, full-stack;DevOps specialist;System administrator,17,12,13,Bachelor's
+140000,Man,Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;System administrator,26,12,16,Bachelor's
+66000,Man,Developer, front-end,4,10,1,Bachelor's
+47000,Woman,Developer, embedded applications or devices;Developer, front-end;Developer, mobile,4,14,3,Less than bachelor's
+99100,Man,Developer, full-stack,15,19,15,Bachelor's
+75000,Man,Developer, QA or test,13,16,7,Bachelor's
+5e+05,Man,Engineering manager,25,13,19,Bachelor's
+86320,Man,Academic researcher;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Scientist,13,8,2,Bachelor's
+160000,Man,Developer, desktop or enterprise applications;Developer, mobile,18,6,14,Master's
+175000,Man,Data scientist or machine learning specialist;Developer, back-end;Engineer, data,15,8,10,Master's
+74750,Man,Developer, front-end;Engineering manager,16,11,9,Bachelor's
+65000,Man,Designer;Developer, QA or test,5,40,2,Less than bachelor's
+2e+05,Man,Database administrator;Developer, full-stack;DevOps specialist;Engineer, site reliability;System administrator,20,10,15,Less than bachelor's
+57000,Man,Developer, front-end,4,18,NA,Bachelor's
+78000,Man,Academic researcher;Data scientist or machine learning specialist;Database administrator;Developer, full-stack;Engineer, data,6,24,5,Bachelor's
+110000,Man,Developer, full-stack,20,23,15,Less than bachelor's
+130000,Man,Developer, back-end,9,19,7,Bachelor's
+225000,Man,Senior executive/VP,22,14,19,Master's
+68000,Man,Developer, front-end,3,16,1,Bachelor's
+120000,Man,Developer, QA or test,15,5,6,Less than bachelor's
+50000,Man,Developer, full-stack,5,18,3,Bachelor's
+68000,Man,Developer, full-stack,2,24,1,Less than bachelor's
+110000,Man,Developer, back-end,10,NA,2,Bachelor's
+210000,Man,Developer, full-stack;Engineering manager,14,17,10,Master's
+150000,Man,Developer, back-end;Developer, full-stack,10,19,6,Bachelor's
+124000,Man,Developer, full-stack;DevOps specialist,24,18,16,Master's
+95000,Man,Developer, mobile,2,10,2,Bachelor's
+130000,Man,Developer, desktop or enterprise applications;Developer, front-end,20,14,12,Less than bachelor's
+65000,Man,Developer, full-stack,3,11,1,Less than bachelor's
+89000,Man,Developer, full-stack,9,16,5,Bachelor's
+82000,Man,Academic researcher;Developer, back-end;Engineer, data,8,16,8,PhD
+100990,Man,Developer, desktop or enterprise applications;Developer, full-stack,37,25,34,Less than bachelor's
+210000,Man,Developer, back-end;Developer, full-stack,27,12,20,Less than bachelor's
+85000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist,12,13,1,Bachelor's
+250000,Man,Developer, back-end,8,16,2,Bachelor's
+70000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, QA or test,5,14,4,Bachelor's
+165000,Man,Database administrator;Developer, full-stack;Developer, mobile,28,12,20,Less than bachelor's
+121000,Man,Developer, back-end;DevOps specialist,10,29,9,Less than bachelor's
+135000,Man,Data scientist or machine learning specialist;Engineer, data,22,14,14,PhD
+150000,Man,Developer, front-end,11,13,11,Master's
+160000,Man,Developer, desktop or enterprise applications;Developer, full-stack;Developer, mobile,20,18,20,Master's
+130000,Man,Engineering manager,30,10,25,Master's
+106000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,12,32,11,Bachelor's
+58000,Man,Developer, front-end;Developer, full-stack,5,12,2,Bachelor's
+110000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,16,10,13,Less than bachelor's
+135000,Woman,Developer, full-stack,5,14,2,Bachelor's
+130000,Man,Engineering manager,12,12,10,Bachelor's
+248000,Man,Developer, back-end,42,20,28,Less than bachelor's
+121000,Man,Developer, back-end;Engineering manager,13,20,11,Bachelor's
+104669,Man,Developer, full-stack,11,12,6,Bachelor's
+90000,Man,Database administrator;Developer, back-end;Developer, full-stack;System administrator,15,16,13,Bachelor's
+130000,Man,Developer, full-stack;Engineer, site reliability;System administrator,12,14,7,Bachelor's
+50000,Man,Database administrator;Developer, desktop or enterprise applications;Developer, front-end,1,29,Less than 1 year,Less than bachelor's
+94500,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,11,16,5,Bachelor's
+90000,Woman,Developer, full-stack,11,15,6,Bachelor's
+155000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist,23,12,14,Less than bachelor's
+85000,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, full-stack,19,8,5,Bachelor's
+50000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,4,26,1,Bachelor's
+65000,Man,Developer, desktop or enterprise applications;Developer, front-end,12,10,8,Less than bachelor's
+72000,Man,Engineer, site reliability;System administrator,32,13,Less than 1 year,Bachelor's
+70000,Man,Developer, QA or test,5,18,Less than 1 year,Bachelor's
+73000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,20,14,5,Less than bachelor's
+280000,Man,Developer, back-end;DevOps specialist,10,13,8,Bachelor's
+40000,Man,Database administrator;Developer, full-stack,7,18,2,Bachelor's
+115000,Man,Designer;Developer, full-stack,4,12,3,Bachelor's
+130000,Woman,Developer, desktop or enterprise applications;Developer, front-end;Developer, QA or test,4,33,3,Master's
+130000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,20,7,20,Bachelor's
+115000,Man,Engineer, data,9,16,2,Master's
+135000,Man,Developer, full-stack;DevOps specialist,20,14,11,Bachelor's
+73290,Man,Developer, full-stack,11,12,2,Bachelor's
+95000,Man,Developer, front-end,24,12,20,Bachelor's
+170000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;Engineering manager;Product manager;Senior executive/VP,39,15,30,Master's
+160000,Woman,Data scientist or machine learning specialist;Developer, desktop or enterprise applications;Engineer, data,6,18,Less than 1 year,Master's
+101000,Woman,Developer, full-stack;Educator;Student,20,15,9,Bachelor's
+68000,Man,Developer, back-end;DevOps specialist,5,23,5,Bachelor's
+83600,Man,Developer, back-end,4,20,2,Bachelor's
+120000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, game or graphics;Developer, mobile;Developer, QA or test;Engineer, data;Engineering manager,30,9,21,Less than bachelor's
+130000,Man,Engineer, site reliability;Engineering manager,7,27,3,Bachelor's
+84500,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineer, site reliability;System administrator,7,15,5,Less than bachelor's
+1e+05,Man,Developer, full-stack,7,28,5,Master's
+53300,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,4,12,2,Bachelor's
+160000,Man,Developer, full-stack,16,18,11,Bachelor's
+68500,Man,Developer, full-stack,8,18,5,Bachelor's
+106000,Man,Developer, front-end;Developer, full-stack;Educator,25,6,10,Master's
+112000,Man,Developer, full-stack,9,28,9,Less than bachelor's
+57000,Man,Academic researcher;Data scientist or machine learning specialist;Scientist,14,24,9,PhD
+95000,Man,Engineer, data,5,24,1,Bachelor's
+130000,Man,Developer, back-end,20,6,15,Bachelor's
+140000,Man,Designer;Developer, mobile;Engineering manager,7,13,5,Bachelor's
+99500,Man,Database administrator;Developer, full-stack;DevOps specialist,15,14,9,Bachelor's
+175000,Man,Developer, mobile,15,10,11,Bachelor's
+90000,Man,Data or business analyst;Developer, back-end,6,24,4,Bachelor's
+115000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist,28,9,15,Bachelor's
+160000,Man,Developer, back-end;Developer, embedded applications or devices,12,17,7,Bachelor's
+129000,Man,Developer, full-stack;Educator;Engineering manager,9,12,7,Bachelor's
+120000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,21,12,18,Bachelor's
+95000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;Engineer, data;Scientist,26,16,22,Bachelor's
+2e+05,Man,Academic researcher;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, game or graphics;Engineering manager;Scientist,32,11,20,Master's
+3e+05,Man,NA,30,12,20,Master's
+205000,Man,Developer, desktop or enterprise applications;Developer, full-stack;Engineer, site reliability,22,8,15,Less than bachelor's
+159000,Man,Developer, back-end;Developer, mobile,12,10,9,Bachelor's
+2e+05,Man,Developer, desktop or enterprise applications;Developer, full-stack;Student,11,10,4,Bachelor's
+70000,Woman,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end,22,8,9,Master's
+55000,Woman,Developer, front-end,5,13,2,Less than bachelor's
+220000,Man,Developer, back-end,25,16,19,Master's
+45000,Man,Developer, front-end,5,19,1,Bachelor's
+175000,Man,Engineering manager,30,12,20,Master's
+250000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Senior executive/VP,25,15,20,Less than bachelor's
+12500,Man,Data or business analyst;Developer, back-end;Developer, full-stack;Engineer, data;System administrator,38,12,32,Bachelor's
+135000,Woman,Developer, full-stack;Developer, mobile,5,13,5,Bachelor's
+110000,Man,Developer, back-end;Developer, full-stack,5,20,3,Bachelor's
+57000,Man,Database administrator;Designer;Developer, full-stack;DevOps specialist;System administrator,10,18,5,Less than bachelor's
+75000,Man,Developer, front-end;Developer, full-stack,14,18,10,Bachelor's
+58000,Man,Developer, full-stack;Engineer, site reliability;Scientist;Student,6,18,1,Bachelor's
+155000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack,16,12,7,Bachelor's
+86000,Man,Developer, desktop or enterprise applications,17,13,9,Bachelor's
+150000,Man,Academic researcher;Data scientist or machine learning specialist;Engineering manager;Scientist,8,18,10,PhD
+91200,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Engineer, data,4,21,1,Bachelor's
+325000,Man,Data or business analyst;Data scientist or machine learning specialist;Scientist,15,7,7,PhD
+73000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,7,11,4,Bachelor's
+175000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, QA or test;Educator;Engineering manager,26,8,12,Master's
+197000,Man,Developer, front-end;Developer, full-stack,19,10,9,Bachelor's
+82500,Man,Developer, back-end,7,19,4,Bachelor's
+56000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,14,14,5,Less than bachelor's
+136000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,12,20,9,Bachelor's
+125000,Man,Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile,8,16,5,Master's
+60900,Man,Developer, embedded applications or devices;Developer, full-stack,8,15,2,Bachelor's
+60000,Man,Developer, back-end,20,12,13,Bachelor's
+167436,Man,Database administrator;Designer;Developer, back-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Engineering manager,21,15,15,Bachelor's
+112000,Man,NA,35,24,25,Bachelor's
+115000,Man,Developer, full-stack,5,14,5,Bachelor's
+102000,Woman,Developer, desktop or enterprise applications,29,13,24,Bachelor's
+85000,Man,Developer, back-end;Developer, full-stack,5,22,3,Bachelor's
+63500,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,15,14,4,Bachelor's
+115000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,31,9,20,Bachelor's
+135000,Man,Designer;Developer, front-end;Developer, full-stack;Developer, game or graphics,20,14,12,Bachelor's
+58000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Engineer, data,7,19,2,Bachelor's
+135000,Man,Developer, front-end;Developer, full-stack,8,13,8,Less than bachelor's
+130000,Man,Developer, desktop or enterprise applications;Developer, full-stack;Student,25,10,16,Less than bachelor's
+70000,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Student,4,18,2,Master's
+101000,Man,Data or business analyst;Data scientist or machine learning specialist,6,25,6,Master's
+67000,Man,Developer, embedded applications or devices,10,12,3,Bachelor's
+180000,Man,Developer, back-end;Engineer, data,8,22,5,Bachelor's
+95000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,14,7,8,Bachelor's
+260000,Man,Developer, back-end,18,16,15,Master's
+92000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,3,14,3,Bachelor's
+171000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineer, site reliability;Engineering manager;Product manager,17,15,14,Bachelor's
+57700,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,5,18,4,Bachelor's
+125000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;DevOps specialist;System administrator,32,11,21,Bachelor's
+110000,Man,Developer, full-stack,27,12,15,Bachelor's
+120000,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist,15,20,12,Bachelor's
+2e+05,Man,Developer, back-end;Developer, front-end,24,11,19,Bachelor's
+151000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,15,12,11,Bachelor's
+65000,Woman,Data or business analyst;Developer, QA or test,7,12,Less than 1 year,Bachelor's
+185000,Man,Developer, back-end;Developer, full-stack,16,9,12,Bachelor's
+2e+05,Man,Engineer, site reliability,26,7,20,Bachelor's
+120000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,5,6,2,Bachelor's
+90000,Man,Developer, back-end,6,26,4,Master's
+65000,Man,Developer, back-end;Developer, desktop or enterprise applications,11,16,5,Bachelor's
+130000,Man,Developer, desktop or enterprise applications,22,9,15,Master's
+85000,Man,DevOps specialist,10,14,5,Bachelor's
+84000,Man,Designer;Developer, front-end;Product manager,8,13,5,Less than bachelor's
+60000,Man,Developer, QA or test,7,15,4,Less than bachelor's
+95000,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, back-end;Developer, QA or test,19,9,5,Bachelor's
+1e+05,Man,Developer, full-stack,3,17,3,Bachelor's
+110000,Man,Developer, full-stack;DevOps specialist;System administrator,13,11,7,Bachelor's
+240000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist;Educator,35,11,25,Bachelor's
+110000,Man,Data or business analyst;Database administrator;Developer, back-end,26,10,20,Bachelor's
+65000,Man,Developer, full-stack,8,19,2,Bachelor's
+95000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack,15,14,8,Bachelor's
+1e+05,Man,Developer, full-stack,6,11,5,Master's
+135000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile;DevOps specialist;System administrator,24,Younger than 5 years,20,Less than bachelor's
+125091,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, site reliability;System administrator,22,9,14,Master's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,8,15,Less than 1 year,Bachelor's
+2e+05,Man,Developer, back-end;Developer, full-stack,20,10,11,Master's
+155000,Man,Developer, back-end,32,10,21,Bachelor's
+72000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist,13,11,11,Bachelor's
+91000,Man,Developer, back-end,8,20,5,Bachelor's
+124000,Man,Data or business analyst;Data scientist or machine learning specialist;Engineer, data;Product manager,8,10,5,Master's
+130000,Man,Developer, full-stack,30,15,22,Master's
+180000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,20,18,18,Master's
+150000,Man,Developer, back-end;Developer, desktop or enterprise applications,40,8,30,Master's
+123500,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineering manager,12,15,9,Less than bachelor's
+155000,Man,Developer, back-end,15,10,14,Master's
+167000,Man,Developer, embedded applications or devices;Developer, full-stack,28,9,22,Bachelor's
+71000,Man,Developer, back-end,5,13,Less than 1 year,Bachelor's
+60000,Woman,Developer, back-end;Developer, full-stack,6,16,3,Bachelor's
+130000,Man,Developer, embedded applications or devices,12,16,6,Bachelor's
+33400,Man,Designer;Developer, front-end;Educator,10,16,4,Less than bachelor's
+120000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,4,16,3,Master's
+1e+05,Man,Data scientist or machine learning specialist;DevOps specialist;Engineer, data;Scientist;Student,6,19,4,Bachelor's
+185000,Man,Data scientist or machine learning specialist;Developer, back-end,10,19,7,PhD
+56000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist,4,22,4,Bachelor's
+96000,Man,Data or business analyst;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end,24,14,11,Bachelor's
+112500,Man,Database administrator;Developer, full-stack;DevOps specialist;System administrator,16,7,12,Master's
+40000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Educator;Scientist;Student,17,8,9,Bachelor's
+168000,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;DevOps specialist;Educator;Engineer, data;Engineer, site reliability;Engineering manager;Marketing or sales professional;Product manager;Scientist;Senior executive/VP;Student;System administrator,48,8,34,PhD
+80000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile;Engineer, data,12,13,4,Bachelor's
+95000,Woman,Developer, full-stack,Less than 1 year,30,Less than 1 year,Master's
+135000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist,19,19,14,Master's
+175000,Woman,Developer, back-end,17,16,10,Master's
+69300,Man,Developer, back-end;DevOps specialist,15,17,4,Bachelor's
+105000,Man,Developer, back-end;Developer, full-stack;Engineering manager,22,20,20,Bachelor's
+140000,Man,Developer, back-end;Developer, desktop or enterprise applications,23,8,7,Bachelor's
+80000,Woman,Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,9,16,4,Bachelor's
+60000,Woman,Developer, back-end;Developer, full-stack,4,18,Less than 1 year,Bachelor's
+136000,Man,Developer, back-end;Developer, full-stack;Educator,22,18,19,Master's
+105000,Woman,Developer, back-end;Developer, front-end;Developer, QA or test;DevOps specialist;Marketing or sales professional;Product manager,16,18,8,Bachelor's
+60000,Man,Developer, full-stack,2,21,1,Bachelor's
+45499,Man,Developer, full-stack,2,13,Less than 1 year,Bachelor's
+130000,Man,Developer, mobile,25,14,25,Master's
+148000,Woman,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,9,15,4,Bachelor's
+80000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,7,19,5,Bachelor's
+70000,Woman,Data or business analyst;Data scientist or machine learning specialist;Developer, back-end,8,16,1,PhD
+145000,Man,Developer, front-end,15,20,13,Bachelor's
+45000,Man,Developer, full-stack,5,18,1,Bachelor's
+107500,Man,Developer, front-end;Developer, full-stack;Developer, mobile,20,12,9,Less than bachelor's
+113000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,15,15,15,Master's
+58000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,4,20,Less than 1 year,Bachelor's
+2e+05,Man,DevOps specialist;Engineer, site reliability,9,12,3,Master's
+135000,Man,Developer, front-end;Developer, mobile;DevOps specialist,10,8,6,Bachelor's
+75000,Man,Academic researcher;Data scientist or machine learning specialist;Designer;Developer, embedded applications or devices,8,21,2,Less than bachelor's
+75000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,2,25,1,Less than bachelor's
+126500,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist,15,10,14,Master's
+75000,Man,Developer, full-stack,6,9,2,Bachelor's
+60000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, game or graphics,9,20,7,Bachelor's
+90000,Man,Developer, QA or test,30,13,20,Less than bachelor's
+65000,Man,Developer, front-end;Developer, full-stack,6,15,5,Bachelor's
+101500,Man,Developer, desktop or enterprise applications;Developer, full-stack;Student,9,16,3,Bachelor's
+58000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Scientist,5,22,2,Bachelor's
+120000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,20,15,20,Less than bachelor's
+60000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;Product manager;Senior executive/VP,39,18,34,Professional
+64000,Man,Developer, full-stack,7,19,3,Bachelor's
+143000,Woman,DevOps specialist,7,18,3,Bachelor's
+105000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile;Educator,12,17,10,Bachelor's
+67000,Man,Developer, front-end,8,14,6,Less than bachelor's
+72000,Man,Developer, full-stack;Educator,3,35,3,Bachelor's
+1e+05,Woman,Developer, mobile,14,17,10,Bachelor's
+73000,Man,Developer, front-end;Developer, full-stack;DevOps specialist,7,15,3,Bachelor's
+137500,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, QA or test;DevOps specialist;Educator;Engineer, data,15,17,8,Bachelor's
+147000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Product manager;Scientist;System administrator,25,9,15,PhD
+72500,Man,Developer, full-stack,2,16,1,Bachelor's
+92000,Woman,Data or business analyst;Database administrator;Engineer, data;Product manager;System administrator,8,23,5,Master's
+105000,Woman,Developer, front-end;Developer, full-stack,7,27,5,Bachelor's
+78000,Man,NA,9,13,8,Less than bachelor's
+86000,Man,Developer, back-end,40,9,10,Bachelor's
+94000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, embedded applications or devices;System administrator,12,12,4,Bachelor's
+2e+05,Woman,Developer, front-end,6,13,5,Bachelor's
+110217,Man,Developer, back-end;Developer, QA or test;DevOps specialist,5,13,4,Bachelor's
+123600,Man,Developer, back-end,9,20,7,Bachelor's
+110000,Man,Academic researcher;Data or business analyst;Database administrator;Developer, back-end,38,15,30,Less than bachelor's
+1e+05,Woman,Developer, front-end;Developer, full-stack;Developer, game or graphics,19,22,11,Bachelor's
+175000,Man,Data or business analyst;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;Engineering manager,20,16,18,Bachelor's
+144000,Woman,Data scientist or machine learning specialist;Engineering manager,18,9,9,Bachelor's
+65000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,5,15,3,Bachelor's
+74000,Man,Developer, full-stack;DevOps specialist,20,10,5,Master's
+125000,Man,Developer, back-end;Developer, full-stack,5,21,5,Bachelor's
+84000,Man,Data or business analyst;Designer;Developer, back-end;Developer, front-end;Developer, QA or test,38,13,26,Bachelor's
+75000,Man,Developer, front-end,Less than 1 year,19,1,Bachelor's
+117800,Man,Developer, desktop or enterprise applications;Developer, full-stack,17,13,11,Less than bachelor's
+85500,Man,Developer, back-end;Developer, full-stack;Developer, mobile,5,17,3,Bachelor's
+78000,Man,Developer, full-stack,18,11,8,Bachelor's
+297000,Man,Developer, back-end;Developer, desktop or enterprise applications;Engineer, data,12,13,12,PhD
+85000,Man,NA,45,14,8,Master's
+94557,Man,Developer, back-end,12,15,7,Master's
+106000,Man,Developer, back-end,5,11,1,Bachelor's
+147000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;System administrator,2,20,1,Bachelor's
+82500,Man,Data or business analyst;Developer, back-end;Developer, front-end;Developer, QA or test,3,13,1,Bachelor's
+120000,Man,Data scientist or machine learning specialist;Engineer, data,15,23,13,Master's
+60000,Woman,Developer, front-end;Developer, full-stack;Student,4,26,3,Less than bachelor's
+140000,Man,Developer, back-end;Developer, full-stack,17,15,14,Bachelor's
+99000,Man,Developer, back-end;Developer, full-stack,13,12,8,Bachelor's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,23,15,18,Bachelor's
+74000,Man,Developer, full-stack,9,13,8,Bachelor's
+150000,Man,Developer, full-stack,13,22,9,Master's
+117500,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;System administrator,16,10,14,Bachelor's
+315000,Man,Developer, mobile,22,12,13,Bachelor's
+73000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack,7,13,7,Master's
+135000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,7,19,5,Bachelor's
+96000,Man,Developer, full-stack,4,25,3,Bachelor's
+88000,Man,Developer, desktop or enterprise applications;Developer, full-stack,11,21,11,Less than bachelor's
+127000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,18,17,8,Master's
+76000,Man,Data scientist or machine learning specialist,10,18,6,Master's
+270000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, full-stack;Engineer, site reliability;Engineering manager;Senior executive/VP,23,14,23,Less than bachelor's
+150000,Man,Developer, back-end,10,15,1,Master's
+115000,Man,Developer, full-stack;DevOps specialist,25,12,15,Master's
+86000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,30,22,15,Less than bachelor's
+105000,Man,Developer, back-end;Developer, full-stack,15,16,10,Bachelor's
+70000,Man,Developer, front-end,2,19,1,Bachelor's
+180000,Man,DevOps specialist;Engineer, data,7,14,5,Bachelor's
+125000,Man,Developer, full-stack;DevOps specialist,6,16,6,Less than bachelor's
+70000,Woman,Data scientist or machine learning specialist;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Student,5,17,2,Bachelor's
+230000,Man,Developer, back-end;Engineer, site reliability,20,12,16,PhD
+140000,Man,Developer, front-end;Developer, full-stack;Developer, mobile;System administrator,15,15,10,Bachelor's
+145000,Man,Developer, full-stack,5,12,4,Bachelor's
+1e+05,Man,Developer, full-stack,9,17,5,Bachelor's
+1e+05,Man,Developer, front-end,7,13,2,Bachelor's
+125000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,6,16,3,Bachelor's
+63000,Man,NA,5,21,5,Bachelor's
+89000,Man,Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist;System administrator,14,19,10,Less than bachelor's
+57000,Man,Developer, full-stack,4,15,2,Bachelor's
+111000,Man,Developer, desktop or enterprise applications,6,12,2,Bachelor's
+50000,Man,Data or business analyst,3,23,2,Master's
+78000,Man,Database administrator;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,6,19,2,Bachelor's
+154950,Man,Developer, front-end,6,12,4,Bachelor's
+135000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;System administrator,38,6,26,Bachelor's
+180000,Man,Developer, back-end,2,19,1,Bachelor's
+175000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, QA or test;DevOps specialist;Engineer, site reliability,13,16,13,Bachelor's
+120000,Man,Developer, full-stack;DevOps specialist,18,16,14,Bachelor's
+55000,Man,Designer;Developer, front-end,8,13,2,Bachelor's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,5,12,3,Master's
+150000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,23,10,16,Less than bachelor's
+119000,Man,Developer, desktop or enterprise applications;Developer, front-end,10,19,6,Bachelor's
+230000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,18,13,12,Master's
+130000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, front-end;Developer, full-stack,6,23,5,Bachelor's
+115000,Man,Developer, full-stack;System administrator,13,9,3,Less than bachelor's
+380000,Man,Academic researcher;Educator,15,13,2,Professional
+205000,Woman,Developer, full-stack,11,11,9,Bachelor's
+108000,Man,Developer, back-end,10,12,Less than 1 year,Bachelor's
+320000,Man,Developer, back-end,20,10,8,Bachelor's
+126000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,24,12,18,Less than bachelor's
+150000,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Engineer, data;Engineering manager;Senior executive/VP;System administrator,10,13,7,Less than bachelor's
+71020,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,8,16,3,Bachelor's
+83200,Man,Developer, back-end;Developer, full-stack,14,14,6,Bachelor's
+141000,Man,Data scientist or machine learning specialist;Developer, full-stack;Engineer, data;Student,20,11,10,Bachelor's
+230000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineering manager,30,17,25,Bachelor's
+55000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end;System administrator,10,10,3,Less than bachelor's
+110000,Man,Developer, full-stack;Engineering manager;Senior executive/VP,15,17,12,Less than bachelor's
+177000,Man,Developer, back-end,23,12,11,Bachelor's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, QA or test;DevOps specialist,20,13,13,Master's
+115000,Man,Designer;Developer, front-end;Developer, full-stack,20,12,18,Less than bachelor's
+35000,Man,Developer, front-end,2,24,1,Bachelor's
+169897,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;Engineer, site reliability,20,10,14,Less than bachelor's
+85000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,10,12,1,Bachelor's
+110000,Man,NA,20,15,6,Master's
+98928,Man,Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, full-stack,14,14,10,Master's
+250000,Woman,NA,38,5,25,Master's
+385000,Man,Developer, front-end,7,25,6,Master's
+128000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,30,15,25,Bachelor's
+120000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,42,11,40,Less than bachelor's
+73500,Man,Developer, back-end;Developer, embedded applications or devices;Developer, mobile;Developer, QA or test;DevOps specialist,11,14,5,Bachelor's
+140000,Man,Developer, back-end;Developer, full-stack;Developer, mobile,23,10,12,Bachelor's
+135000,Man,Database administrator;Developer, desktop or enterprise applications;System administrator,35,22,33,Bachelor's
+120000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;Developer, mobile;Developer, QA or test,25,14,25,PhD
+80000,Man,Designer;Developer, front-end,2,13,Less than 1 year,Bachelor's
+280000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist,32,12,22,Less than bachelor's
+72000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,4,18,1,Less than bachelor's
+85000,Man,Engineer, site reliability,18,12,10,Bachelor's
+1e+05,Man,Data or business analyst;Database administrator;Developer, full-stack;Developer, QA or test;Product manager,20,18,16,Bachelor's
+162000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, back-end;Developer, desktop or enterprise applications;Engineer, data,40,10,26,Master's
+70000,Woman,Developer, front-end,3,14,1,Less than bachelor's
+71150,Woman,Database administrator;Designer;Developer, full-stack,11,17,7,Master's
+140000,Man,Developer, full-stack,10,22,10,Bachelor's
+70000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end,4,21,2,Bachelor's
+205000,Man,Developer, back-end;Developer, full-stack;Developer, mobile;DevOps specialist;Engineering manager;System administrator,12,7,10,Bachelor's
+120000,Man,Developer, front-end;Developer, mobile,30,15,22,Bachelor's
+112000,Man,Developer, back-end;Developer, full-stack,12,15,5,Bachelor's
+115500,Man,Developer, full-stack;Developer, mobile,9,17,4,Bachelor's
+120000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,24,13,22,Bachelor's
+130000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, mobile,33,19,29,Bachelor's
+85000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile,23,8,14,Bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, full-stack;Developer, mobile,17,7,16,Bachelor's
+1e+05,Man,Developer, full-stack,18,12,1,PhD
+41000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,10,12,4,Less than bachelor's
+130000,Man,NA,10,18,6,Master's
+111000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile,10,9,2,Bachelor's
+68000,Man,Academic researcher;Developer, back-end;Developer, front-end;Student,15,10,5,Master's
+96000,Man,Developer, back-end,7,21,3,Master's
+80000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,18,14,10,Less than bachelor's
+157000,Man,Database administrator;Designer;Developer, desktop or enterprise applications;Developer, front-end;Developer, game or graphics,39,15,35,Bachelor's
+80000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices,4,12,2,Bachelor's
+250000,Man,Developer, full-stack,18,21,15,Master's
+68000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,2,10,Less than 1 year,Bachelor's
+110000,Man,Developer, back-end;DevOps specialist;System administrator,16,13,6,Less than bachelor's
+130000,Woman,Developer, back-end,11,20,10,Bachelor's
+192000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,25,14,20,Bachelor's
+45000,Man,Designer,22,33,22,Less than bachelor's
+97000,Man,Data or business analyst;Database administrator;Developer, full-stack;DevOps specialist;Engineer, site reliability;System administrator,25,10,15,Bachelor's
+130000,Man,Designer;Developer, desktop or enterprise applications;Developer, embedded applications or devices,38,9,32,Bachelor's
+65000,Man,Developer, back-end,9,16,Less than 1 year,Bachelor's
+125000,Man,Developer, full-stack;Developer, QA or test,19,13,19,Bachelor's
+73000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,7,21,7,Master's
+70000,Man,Data scientist or machine learning specialist,7,16,1,Master's
+64000,Man,Developer, desktop or enterprise applications;Developer, full-stack,5,14,3,Bachelor's
+64494,Man,Developer, full-stack,11,11,2,Bachelor's
+118000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineering manager,18,14,16,Bachelor's
+112000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;Student;System administrator,8,13,6,Bachelor's
+48932,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;Educator;System administrator,15,13,4,Bachelor's
+120000,Man,Developer, back-end,11,27,11,Bachelor's
+120000,Man,Developer, full-stack,15,13,10,Bachelor's
+1e+05,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Marketing or sales professional,12,12,9,Less than bachelor's
+60000,Man,Academic researcher;Developer, back-end;Developer, game or graphics,6,16,1,Bachelor's
+150000,Man,Developer, full-stack;Educator,15,10,10,Master's
+120000,Man,Developer, full-stack,5,13,2,Bachelor's
+82000,Man,Developer, desktop or enterprise applications,7,17,3,Bachelor's
+102000,Man,Developer, front-end;Developer, full-stack;Developer, mobile,22,9,22,Less than bachelor's
+150000,Man,Developer, back-end;Engineering manager,36,12,28,Master's
+98000,Man,Developer, full-stack,8,20,4,Bachelor's
+65000,Man,Developer, full-stack,24,8,22,Less than bachelor's
+180000,Man,Developer, back-end,25,15,20,Master's
+90000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,21,5,16,Less than bachelor's
+155000,Man,Developer, back-end,8,16,4,Bachelor's
+57000,Man,Data or business analyst,5,24,4,Bachelor's
+87000,Man,Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,12,16,7,Bachelor's
+22000,Man,Academic researcher;Educator;Scientist;Student,12,11,11,PhD
+240000,Man,Developer, back-end;Developer, full-stack;Developer, QA or test;Senior executive/VP,22,13,16,Master's
+172000,Man,Developer, full-stack,28,12,18,Bachelor's
+160000,Man,Developer, full-stack,20,12,7,Bachelor's
+110000,Man,Developer, full-stack,18,19,13,Less than bachelor's
+107000,Man,Developer, full-stack;DevOps specialist,8,14,6,Less than bachelor's
+40000,Woman,Database administrator;Developer, back-end;System administrator,20,10,3,Bachelor's
+71000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,7,18,3,Bachelor's
+150000,Man,Developer, full-stack,15,13,11,Less than bachelor's
+86000,Man,Developer, front-end,13,13,10,Less than bachelor's
+80000,Man,Developer, back-end;Developer, full-stack,8,16,6,Bachelor's
+72000,Woman,Database administrator;Designer;Developer, front-end,20,6,12,Bachelor's
+85000,Man,Developer, full-stack,25,10,23,Master's
+240000,Man,Data or business analyst;Developer, back-end;System administrator,15,10,15,Master's
+101000,Woman,Developer, front-end,7,20,5,Bachelor's
+137000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,10,15,3,Bachelor's
+180000,Man,Developer, back-end,13,13,8,Bachelor's
+96000,Woman,Developer, front-end;Developer, full-stack,4,18,1,Bachelor's
+156000,Man,Designer;Developer, embedded applications or devices;Developer, front-end,8,20,8,Less than bachelor's
+150000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,21,14,14,Bachelor's
+190000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices,10,10,7,Master's
+70000,Man,Database administrator;Developer, back-end;DevOps specialist;Engineer, site reliability;System administrator,2,9,Less than 1 year,Less than bachelor's
+95000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,12,15,8,Bachelor's
+60000,Man,Developer, front-end,2,13,Less than 1 year,Master's
+135000,Man,Data or business analyst;Data scientist or machine learning specialist;Engineer, data,12,11,10,Master's
+1e+05,Man,Developer, full-stack,20,17,17,Bachelor's
+48000,Man,Developer, full-stack;Educator,3,35,2,Less than bachelor's
+150000,Man,NA,15,14,7,Bachelor's
+135000,Man,Developer, back-end,27,7,9,Bachelor's
+150000,Man,Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist,20,14,15,Bachelor's
+145000,Woman,Developer, front-end;Developer, full-stack;Engineering manager,8,14,8,Bachelor's
+151000,Man,Developer, back-end,15,15,10,Bachelor's
+61000,Man,Developer, full-stack,5,18,2,Bachelor's
+165000,Man,Developer, full-stack;Engineering manager,20,18,20,Master's
+50000,Man,Designer;Developer, full-stack,5,10,2,Bachelor's
+350000,Man,Data or business analyst;Database administrator;Developer, back-end,26,6,14,Master's
+240000,Man,Developer, back-end;DevOps specialist;Engineer, data,12,13,10,Bachelor's
+77500,Man,Developer, full-stack;Developer, QA or test,10,13,5,Bachelor's
+170000,Woman,DevOps specialist,20,15,15,Bachelor's
+185000,Man,Developer, back-end,13,17,8,Master's
+145000,Man,Developer, full-stack,8,17,3,Bachelor's
+115000,Man,Developer, mobile,5,26,3,Bachelor's
+125000,Man,Developer, full-stack,4,27,3,Bachelor's
+95000,Man,Developer, back-end,10,14,3,Master's
+162000,Woman,NA,25,15,10,Master's
+1e+05,Man,Database administrator;Developer, full-stack;DevOps specialist;System administrator,10,18,10,Bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Engineering manager,NA,18,11,Bachelor's
+55000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,8,17,1,Bachelor's
+2e+05,Man,Developer, back-end,13,14,9,Bachelor's
+85000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, QA or test;Engineering manager;Scientist;Senior executive/VP;System administrator,36,9,20,PhD
+135000,Man,Developer, back-end,18,16,11,Bachelor's
+75000,Man,Developer, full-stack,13,18,10,PhD
+64309,Man,Designer;Developer, front-end;Developer, QA or test,38,22,36,Less than bachelor's
+250000,Man,Developer, full-stack,16,14,12,Master's
+60000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,5,15,3,Bachelor's
+145000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;Engineering manager;System administrator,19,9,4,Less than bachelor's
+108000,Man,Database administrator;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, full-stack;Developer, mobile,19,16,17,Master's
+182500,Man,Developer, back-end,12,12,10,Master's
+65000,Man,Data or business analyst,8,14,Less than 1 year,Bachelor's
+80000,Woman,NA,3,24,3,Bachelor's
+148000,Man,Developer, back-end;Developer, full-stack;Developer, mobile,29,12,22,Bachelor's
+131200,Man,Engineering manager,20,17,19,Bachelor's
+153000,Man,Developer, full-stack;Developer, mobile,3,13,3,Bachelor's
+70000,Man,Developer, embedded applications or devices;Developer, front-end;Developer, game or graphics;Developer, mobile;Engineering manager,8,20,8,Less than bachelor's
+60000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,5,23,5,Bachelor's
+60000,Man,Developer, back-end;Developer, desktop or enterprise applications,10,14,2,Bachelor's
+72500,Man,DevOps specialist,4,13,2,Bachelor's
+95200,Man,Developer, full-stack,10,9,6,Bachelor's
+56000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,5,16,5,Less than bachelor's
+150000,Man,Developer, front-end;Developer, full-stack;Developer, mobile,4,13,2,Bachelor's
+115000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;System administrator,25,10,20,Less than bachelor's
+66000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, mobile;Educator;System administrator,15,10,8,Less than bachelor's
+65000,Woman,Designer,4,30,4,Master's
+145000,Man,Engineering manager,10,8,8,Less than bachelor's
+72000,Man,Academic researcher;Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,7,16,5,Less than bachelor's
+95000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,4,15,3,Less than bachelor's
+40000,Man,Developer, full-stack,4,10,3,Less than bachelor's
+105000,Man,Designer;Developer, full-stack;Educator;Scientist,9,19,7,Master's
+68000,Man,Designer,5,12,Less than 1 year,Bachelor's
+72000,Woman,Developer, back-end;Developer, full-stack,10,16,4,Less than bachelor's
+23333,Man,Data scientist or machine learning specialist,40,12,31,Master's
+180000,Man,Developer, back-end,24,16,21,Bachelor's
+85000,Man,NA,4,25,3,Bachelor's
+135000,Man,Developer, front-end,6,21,6,Bachelor's
+140000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, full-stack,20,13,14,Bachelor's
+117000,Man,Academic researcher;Data scientist or machine learning specialist;Educator;Scientist,25,13,5,PhD
+140000,Man,Developer, full-stack;Engineering manager,22,8,10,Less than bachelor's
+67000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,7,15,3,Bachelor's
+65000,Man,Designer;Developer, front-end;Product manager,12,13,9,Bachelor's
+105000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;System administrator,15,13,11,Bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, QA or test,17,10,10,Master's
+123000,Man,Developer, back-end,7,23,4,Bachelor's
+135000,Man,Data or business analyst;Database administrator,7,12,2,Bachelor's
+90000,Man,Data or business analyst;Developer, full-stack,10,15,5,Master's
+130000,Man,Developer, full-stack,4,27,3,Bachelor's
+106000,Woman,DevOps specialist;Engineer, site reliability;System administrator,9,14,5,Master's
+133000,Man,Data scientist or machine learning specialist;Developer, back-end;Engineer, site reliability,20,18,10,Master's
+85000,Man,Database administrator;Developer, full-stack;Developer, QA or test;System administrator,3,13,2,Bachelor's
+72000,Man,Developer, QA or test,5,14,2,Less than bachelor's
+75000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,5,18,3,Bachelor's
+2e+05,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;Engineer, data;Engineer, site reliability;System administrator,14,16,9,Master's
+80000,Man,Developer, desktop or enterprise applications;Developer, full-stack,19,14,8,Bachelor's
+65000,Man,Database administrator;Designer;Developer, full-stack;Developer, QA or test;DevOps specialist;System administrator,14,13,8,Master's
+85000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,7,21,6,Less than bachelor's
+2e+05,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;Engineer, data;Product manager;Scientist;Senior executive/VP,14,14,11,Master's
+72000,Woman,Developer, back-end;DevOps specialist;System administrator,15,18,4,Less than bachelor's
+75000,Man,Developer, full-stack,21,27,4,Bachelor's
+97075,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,10,13,5,Bachelor's
+191000,Man,Developer, mobile,10,15,7,Bachelor's
+120000,Woman,Developer, back-end;Developer, front-end,21,34,19,Bachelor's
+58000,Man,Data or business analyst;Developer, full-stack,6,18,4,Less than bachelor's
+106000,Man,Developer, full-stack,37,12,31,Bachelor's
+60500,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, QA or test,2,15,1,Less than bachelor's
+140000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,9,13,6,Bachelor's
+68000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineering manager,4,15,3,Bachelor's
+180000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,35,7,20,Bachelor's
+250000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, QA or test,21,14,12,Master's
+120000,Man,Developer, full-stack,11,15,5,Bachelor's
+97000,Man,Developer, front-end;Developer, full-stack,13,12,10,Bachelor's
+150000,Man,Developer, back-end;Engineer, data,10,10,7,Master's
+93000,Man,Developer, front-end;Developer, full-stack,12,17,7,Bachelor's
+98000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test,14,12,10,Bachelor's
+160000,Man,Designer;Developer, desktop or enterprise applications;Developer, front-end,20,10,19,Master's
+115000,Man,Designer;Developer, embedded applications or devices,45,16,40,Bachelor's
+90000,Man,Developer, full-stack,6,10,4,Bachelor's
+115000,Man,Developer, front-end,5,17,2,Bachelor's
+78000,Man,Engineer, data,8,16,4,Bachelor's
+110000,Man,Developer, full-stack,7,19,3,Bachelor's
+88000,Man,Developer, desktop or enterprise applications,10,15,4,Bachelor's
+50000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Educator;System administrator,20,15,16,Master's
+126000,Man,Developer, desktop or enterprise applications;Developer, full-stack,10,14,8,Bachelor's
+45000,Man,Developer, desktop or enterprise applications,3,8,Less than 1 year,Bachelor's
+120000,Man,Developer, full-stack,4,11,4,Less than bachelor's
+86000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, full-stack;Educator;Scientist;System administrator,33,10,14,PhD
+53500,Man,Developer, full-stack,10,15,2,Bachelor's
+150000,Man,Developer, full-stack,12,18,11,Master's
+53000,Woman,Developer, front-end;Developer, mobile,5,13,1,Bachelor's
+58000,Man,Database administrator;Designer;Developer, full-stack;Student,8,18,1,Bachelor's
+215000,Man,Developer, desktop or enterprise applications,20,25,16,Master's
+96000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack,12,9,7,Bachelor's
+56000,Man,Developer, full-stack,6,12,2,Bachelor's
+64400,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices,11,13,2,Bachelor's
+83000,Man,Developer, full-stack,5,15,3,Bachelor's
+87000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices,10,18,7,Bachelor's
+305000,Man,Developer, desktop or enterprise applications,34,6,19,Master's
+58000,Woman,Developer, back-end;Developer, front-end,14,12,4,Bachelor's
+90000,Man,Developer, full-stack;Developer, mobile,9,18,5,Bachelor's
+126000,Man,Developer, full-stack;Engineer, site reliability,33,13,22,Master's
+100300,Man,Developer, full-stack,18,12,13,Bachelor's
+170000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile;DevOps specialist;System administrator,15,14,13,Less than bachelor's
+175000,Man,Developer, back-end,18,6,11,Master's
+126000,Man,Developer, desktop or enterprise applications,22,16,22,Bachelor's
+154000,Woman,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, game or graphics,20,9,10,Bachelor's
+1e+05,Man,Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile,7,18,3,Bachelor's
+96000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,15,13,6,Less than bachelor's
+55000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Marketing or sales professional,10,14,8,Less than bachelor's
+160000,Man,Data scientist or machine learning specialist;Developer, back-end,41,15,37,Less than bachelor's
+56000,Man,Designer;Developer, desktop or enterprise applications;Developer, front-end;Developer, game or graphics,18,11,5,Bachelor's
+85000,Man,Developer, full-stack,18,18,11,Bachelor's
+135000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack,27,8,17,Bachelor's
+2e+05,Man,Developer, mobile,17,10,6,Bachelor's
+60000,Man,Senior executive/VP,9,22,6,Bachelor's
+105000,Woman,Academic researcher;Data scientist or machine learning specialist;Scientist,7,22,5,Master's
+150000,Man,Developer, front-end;Developer, full-stack;Developer, mobile,37,15,35,Less than bachelor's
+53500,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;Educator;Product manager,10,17,6,Bachelor's
+133000,Man,Developer, front-end;Developer, full-stack,15,10,11,Bachelor's
+117000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,18,13,12,Bachelor's
+65000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,10,18,5,Master's
+68500,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Product manager;System administrator,15,16,5,Bachelor's
+65000,Man,Data or business analyst,11,9,4,Bachelor's
+625000,Man,Developer, full-stack;Developer, mobile,10,10,3,Master's
+172000,Man,Developer, back-end;Developer, full-stack,28,10,24,Less than bachelor's
+160000,Man,Database administrator;Developer, full-stack;Engineering manager;Senior executive/VP,25,11,20,Bachelor's
+188000,Man,Data or business analyst,12,10,12,Bachelor's
+170000,Man,Developer, back-end;Developer, full-stack,20,15,4,Less than bachelor's
+150000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Educator;Engineer, data,14,12,6,Bachelor's
+130000,Man,DevOps specialist,Less than 1 year,19,5,Bachelor's
+60000,Man,Developer, full-stack;DevOps specialist;System administrator,3,8,2,Less than bachelor's
+120000,Man,Developer, full-stack,7,21,6,Master's
+69000,Man,Academic researcher;Scientist,23,16,20,PhD
+136000,Man,Developer, QA or test,7,18,4,Bachelor's
+117000,Man,Developer, embedded applications or devices;Student;System administrator,7,14,1,Bachelor's
+64000,Man,Developer, desktop or enterprise applications;Developer, mobile,7,16,2,Bachelor's
+80000,Man,Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist,4,16,1,Bachelor's
+286000,Man,Developer, full-stack,8,19,5,Master's
+202500,Man,NA,20,20,15,Bachelor's
+143000,Man,Developer, full-stack,13,18,8,Bachelor's
+40000,Man,Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist,13,17,9,Bachelor's
+140000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;System administrator,14,13,8,Bachelor's
+120000,Man,Developer, full-stack;DevOps specialist;System administrator,25,14,20,NA
+85000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,6,18,6,Less than bachelor's
+110000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,30,13,21,Bachelor's
+70000,Man,Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineer, site reliability;System administrator,NA,NA,3,Bachelor's
+135000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,20,15,9,Bachelor's
+110000,Woman,Data scientist or machine learning specialist;Developer, back-end,10,12,4,Bachelor's
+32000,Man,Developer, full-stack,12,12,5,Less than bachelor's
+95000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,22,24,22,Less than bachelor's
+250000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineer, data;Engineer, site reliability;Engineering manager;Product manager;Senior executive/VP;Student;System administrator,8,22,7,Bachelor's
+70000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile,6,14,6,Bachelor's
+115000,Man,Developer, full-stack,4,19,4,Bachelor's
+120000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;Engineer, site reliability,6,18,5,Bachelor's
+151800,Man,Developer, back-end,22,14,20,Less than bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, QA or test;Scientist,8,12,6,Less than bachelor's
+133250,Man,Developer, full-stack,14,12,8,Bachelor's
+119000,Man,Developer, front-end,8,21,8,Bachelor's
+115500,Man,Data scientist or machine learning specialist;Developer, full-stack,15,11,8,Bachelor's
+115000,Man,Database administrator;Developer, full-stack;Developer, mobile;DevOps specialist;System administrator,35,15,23,Bachelor's
+135000,Man,Developer, back-end,10,14,6,Bachelor's
+1e+05,Man,Developer, front-end,12,12,7,Bachelor's
+88000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, front-end,9,15,5,Bachelor's
+140000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, full-stack;Engineer, data;Engineering manager,35,25,29,Master's
+120000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability;Engineering manager;Senior executive/VP;System administrator,34,6,21,Master's
+144000,Man,Developer, desktop or enterprise applications,20,14,17,Bachelor's
+99000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, data,23,15,6,Less than bachelor's
+63000,Man,Developer, mobile,7,18,4,Master's
+58000,Man,Developer, full-stack,3,26,2,Bachelor's
+75000,Man,Data or business analyst,4,17,1,Bachelor's
+175000,Man,Developer, full-stack;Engineering manager,15,10,15,Bachelor's
+125000,Man,Developer, full-stack,28,8,9,Less than bachelor's
+86000,Man,Developer, full-stack,6,16,3,Bachelor's
+115000,Man,Developer, full-stack,9,18,6,Bachelor's
+70000,Man,Developer, front-end,2,13,2,Bachelor's
+98000,Man,Database administrator,12,13,8,Bachelor's
+150000,Man,NA,15,14,15,Bachelor's
+105000,Man,Developer, back-end;Developer, embedded applications or devices,8,14,1,Bachelor's
+84000,Man,Developer, full-stack;Engineering manager,7,28,6,Less than bachelor's
+150000,Man,Database administrator;Engineer, data;Engineer, site reliability,25,8,8,Less than bachelor's
+72000,Man,Developer, front-end,2,34,Less than 1 year,NA
+94000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;DevOps specialist,7,15,7,Less than bachelor's
+169000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineering manager,17,16,12,Bachelor's
+70000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,8,19,4,Bachelor's
+50000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist,20,8,3,Bachelor's
+105000,Man,Developer, back-end;Developer, full-stack;Engineer, site reliability,4,14,4,Bachelor's
+95000,Man,Developer, full-stack,7,19,4,Bachelor's
+92500,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,14,15,2,Bachelor's
+210000,Man,Developer, mobile,9,15,5,Bachelor's
+90000,Man,Developer, back-end;DevOps specialist;System administrator,5,18,3,Master's
+85000,Man,Developer, full-stack,7,15,2,Master's
+160000,Woman,Developer, back-end;Developer, front-end,4,13,Less than 1 year,Less than bachelor's
+187000,Man,Engineering manager,35,10,20,PhD
+198000,Man,Developer, back-end;Developer, full-stack,33,7,15,Master's
+130000,Man,Developer, back-end;Developer, full-stack,30,Younger than 5 years,15,Bachelor's
+157500,Man,NA,5,28,3,Bachelor's
+77000,Man,Developer, QA or test,3,30,3,Less than bachelor's
+10690,Woman,Developer, back-end;Developer, full-stack;Engineering manager,37,16,37,PhD
+120000,Man,Academic researcher;Developer, back-end;Scientist,20,14,10,Master's
+70000,Man,Data or business analyst;Data scientist or machine learning specialist;Engineer, data,3,25,Less than 1 year,Bachelor's
+81000,Man,Data or business analyst,3,26,2,Bachelor's
+120000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, full-stack;DevOps specialist;Engineer, site reliability,17,12,15,Master's
+125850,Man,Developer, full-stack,12,15,7,Bachelor's
+144000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Developer, game or graphics;Engineering manager;System administrator,11,16,9,Bachelor's
+1e+05,Man,Developer, full-stack;DevOps specialist;Scientist;System administrator,30,10,21,Master's
+2e+05,Man,NA,45,14,38,Bachelor's
+160000,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist,4,16,3,Master's
+150000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Engineer, data;Engineer, site reliability,38,20,35,Master's
+60000,Woman,Developer, back-end;Educator;Scientist,3,20,2,Master's
+95000,Man,Developer, back-end;DevOps specialist;Engineer, site reliability;System administrator,4,20,3,Bachelor's
+146000,Woman,Developer, mobile,5,14,4,Bachelor's
+43000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,8,14,5,Less than bachelor's
+75000,Man,Engineer, data,5,13,1,Bachelor's
+130000,Woman,Data scientist or machine learning specialist,5,22,3,PhD
+168000,Man,Developer, back-end;Developer, full-stack,5,14,5,Bachelor's
+130000,Man,Developer, back-end;Developer, desktop or enterprise applications,14,15,10,Bachelor's
+120000,Man,Developer, back-end;DevOps specialist;Engineer, site reliability,17,17,12,Bachelor's
+66000,Man,Database administrator;Developer, back-end;Developer, front-end;Product manager,10,16,3,Bachelor's
+80000,Man,Designer;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, QA or test,6,18,3,Bachelor's
+168000,Man,Developer, embedded applications or devices,19,13,9,Bachelor's
+117000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Engineer, data,22,12,14,Bachelor's
+135000,Man,Engineering manager,35,10,20,Bachelor's
+120000,Man,Developer, back-end,13,16,7,Bachelor's
+82000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,23,11,10,Less than bachelor's
+185000,Man,Developer, full-stack;System administrator,13,13,8,Bachelor's
+93000,Man,Developer, full-stack;Developer, mobile,7,23,6,Bachelor's
+83000,Man,Developer, back-end;DevOps specialist;Engineer, site reliability;System administrator,17,13,8,Bachelor's
+110000,Man,Designer;Developer, front-end,11,21,6,Bachelor's
+173000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineering manager,36,12,30,Less than bachelor's
+90000,Man,Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, mobile,6,16,5,Bachelor's
+160000,Man,Developer, back-end,7,17,2,Bachelor's
+120000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;Scientist,14,12,8,Bachelor's
+118000,Man,Developer, back-end,4,19,Less than 1 year,Bachelor's
+95000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile,10,17,8,Less than bachelor's
+60000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Student,6,9,2,Less than bachelor's
+55000,Man,Developer, full-stack,4,19,Less than 1 year,Bachelor's
+77000,Man,Data or business analyst,21,14,6,Bachelor's
+125000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end,30,14,27,Bachelor's
+5e+05,Man,Developer, front-end,37,6,15,Master's
+2e+05,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineering manager;Senior executive/VP;System administrator,25,10,12,Bachelor's
+68000,Man,Developer, front-end,Less than 1 year,29,Less than 1 year,Bachelor's
+80000,Man,Developer, back-end;Engineer, data,6,17,Less than 1 year,Master's
+117000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,7,19,3,Bachelor's
+72000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, full-stack;Developer, QA or test;Engineer, data;System administrator,11,12,6,Bachelor's
+58000,Man,Developer, back-end;DevOps specialist,12,14,8,Bachelor's
+1e+05,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist;Educator,9,12,8,Bachelor's
+130000,Man,Academic researcher;Data or business analyst;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, game or graphics;Developer, mobile;Student,25,12,25,Master's
+190000,Man,Developer, back-end;Product manager;Senior executive/VP,30,13,25,Less than bachelor's
+145000,Man,Academic researcher;Data scientist or machine learning specialist;Developer, full-stack;DevOps specialist;Scientist,34,12,28,PhD
+120000,Man,Developer, full-stack;Engineering manager,20,15,15,Bachelor's
+67000,Woman,Developer, back-end,2,27,1,Master's
+65000,Man,Data or business analyst;Designer;Developer, front-end,6,15,4,Master's
+80000,Woman,Developer, full-stack,3,15,2,Bachelor's
+3e+05,Woman,Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;Developer, mobile;Engineering manager,25,9,18,Master's
+90000,Man,Developer, front-end,13,12,2,Bachelor's
+120000,Man,Data or business analyst;Data scientist or machine learning specialist,20,24,20,Master's
+58000,Man,Data or business analyst;Student,14,12,Less than 1 year,Less than bachelor's
+1e+05,Man,Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineer, site reliability;System administrator,12,15,6,Bachelor's
+145000,Man,Developer, full-stack,4,27,1,Less than bachelor's
+130000,Man,Developer, mobile,9,13,5,Bachelor's
+70000,Man,Developer, back-end;Developer, embedded applications or devices,10,10,2,Bachelor's
+250000,Man,Engineer, data,25,8,12,Bachelor's
+40000,Man,Data scientist or machine learning specialist;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Scientist;Student,12,14,5,Less than bachelor's
+65000,Man,Developer, back-end;Developer, full-stack,4,24,3,Less than bachelor's
+120000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,19,20,18,Bachelor's
+115000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack,11,18,10,Less than bachelor's
+68000,Woman,Developer, back-end;Developer, full-stack,1,15,Less than 1 year,Bachelor's
+130000,Man,Developer, full-stack,6,18,1,Master's
+70000,Man,Developer, full-stack,6,11,2,Bachelor's
+96000,Woman,Developer, back-end,9,18,3,Master's
+101000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,19,16,13,Bachelor's
+85000,Man,Data scientist or machine learning specialist;Developer, full-stack;DevOps specialist;Product manager;Scientist,12,7,8,PhD
+59300,Man,Developer, full-stack,6,20,2,Bachelor's
+85000,Man,Developer, full-stack,6,13,5,Bachelor's
+62025,Man,Developer, desktop or enterprise applications;Developer, front-end,10,8,4,Bachelor's
+75000,Woman,Designer;Developer, front-end,10,14,2,Bachelor's
+150000,Man,NA,10,16,10,Master's
+125000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist,20,13,11,Bachelor's
+140000,Man,Data scientist or machine learning specialist,10,27,7,PhD
+115000,Man,Developer, full-stack;Engineer, site reliability,20,10,NA,Bachelor's
+78000,Man,Developer, embedded applications or devices;Developer, front-end,14,15,3,Master's
+450000,Man,Data scientist or machine learning specialist,15,12,3,Master's
+1e+05,Man,Developer, back-end;Developer, front-end;Developer, full-stack,13,12,5,Bachelor's
+2e+05,Man,Data scientist or machine learning specialist,30,10,26,PhD
+90000,Man,Developer, front-end;Developer, mobile,7,15,3,Less than bachelor's
+140000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,10,22,9,Master's
+75000,Man,Developer, front-end,10,15,8,Less than bachelor's
+130000,Man,Developer, mobile,20,9,13,Bachelor's
+1e+05,Man,Developer, back-end;Developer, full-stack;Engineer, data;Engineering manager,4,26,3,Bachelor's
+95000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Educator,5,15,3,Bachelor's
+90000,Man,Developer, full-stack,6,18,2,Bachelor's
+81000,Man,Designer;Developer, full-stack;Marketing or sales professional,10,12,8,Bachelor's
+80000,Man,Database administrator;Designer;Developer, back-end;Engineer, site reliability;System administrator,10,11,3,Bachelor's
+118000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, mobile,15,10,12,Bachelor's
+140000,Man,Developer, full-stack,13,23,13,Bachelor's
+39700,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,2,12,2,Less than bachelor's
+310000,Man,Developer, front-end,14,15,10,Bachelor's
+80000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,11,12,3,Bachelor's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineering manager,19,15,11,Bachelor's
+110000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist;Educator;Engineer, data;Product manager;System administrator,19,15,8,Bachelor's
+55000,Man,Developer, front-end;Developer, full-stack,8,14,Less than 1 year,Bachelor's
+95000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,30,12,23,Less than bachelor's
+55000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,5,12,Less than 1 year,Bachelor's
+95000,Man,Database administrator;Designer;Developer, full-stack,10,10,10,Bachelor's
+95500,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;Product manager;System administrator,10,12,10,Less than bachelor's
+102000,Woman,Data or business analyst,10,23,10,Bachelor's
+50000,Man,Academic researcher;Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Scientist;Student;System administrator,3,30,3,Less than bachelor's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Engineering manager,10,14,4,Bachelor's
+280000,Man,Developer, back-end,14,13,7,Bachelor's
+162500,Man,Developer, back-end;Engineering manager,38,20,38,Less than bachelor's
+95000,Man,Developer, back-end;Developer, full-stack,14,12,3,Bachelor's
+250000,Man,Designer;Developer, back-end;Developer, embedded applications or devices;Scientist,38,12,33,Bachelor's
+90000,Man,Developer, full-stack,5,50,5,Master's
+98000,Woman,Data or business analyst;Data scientist or machine learning specialist,6,24,3,PhD
+80000,Man,Developer, embedded applications or devices,5,14,2,Bachelor's
+110000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,20,15,12,Less than bachelor's
+120000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, front-end;Developer, full-stack;Student,11,22,8,Bachelor's
+117000,Man,Developer, front-end,3,23,3,Bachelor's
+70000,Man,NA,2,26,Less than 1 year,Bachelor's
+145000,Woman,Developer, back-end,4,18,Less than 1 year,Less than bachelor's
+2e+05,Man,Developer, full-stack,36,12,30,Bachelor's
+157000,Man,Developer, full-stack,17,13,16,Bachelor's
+160000,Man,Developer, back-end;DevOps specialist,5,18,2,Bachelor's
+85000,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile;System administrator,33,7,21,Bachelor's
+130000,Man,Data or business analyst;Data scientist or machine learning specialist,3,14,1,Bachelor's
+89000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,21,28,18,Bachelor's
+1e+05,Woman,Marketing or sales professional,19,13,13,Bachelor's
+90000,Man,Developer, back-end;Developer, full-stack,7,23,4,Bachelor's
+135000,Man,Academic researcher;Developer, front-end;Developer, full-stack;Developer, mobile;Educator,4,21,2,Bachelor's
+135000,Man,Developer, full-stack,10,13,8,Master's
+140000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,35,9,19,Bachelor's
+85000,Man,Developer, full-stack,5,21,4,Bachelor's
+120000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineer, site reliability,12,14,4,Bachelor's
+48000,Woman,Academic researcher;Scientist,4,22,Less than 1 year,Master's
+110000,Woman,Developer, front-end;Marketing or sales professional,8,18,5,Bachelor's
+75000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,15,15,9,Bachelor's
+95000,Man,Data or business analyst;Data scientist or machine learning specialist;Engineer, data,4,20,2,Bachelor's
+66000,Man,Developer, full-stack,4,6,2,Bachelor's
+148000,Man,Developer, full-stack;Engineering manager,14,11,10,Professional
+1e+05,Man,NA,30,7,20,Less than bachelor's
+362000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,20,13,17,Bachelor's
+140000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,20,11,13,Master's
+140000,Man,Developer, back-end,15,16,6,Bachelor's
+110000,Woman,Developer, full-stack,6,12,6,Bachelor's
+85000,Woman,Data scientist or machine learning specialist;Developer, front-end;Student,10,19,5,Bachelor's
+240000,Man,Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Engineer, data;Senior executive/VP;System administrator,33,12,25,Less than bachelor's
+130000,Man,Designer;Developer, full-stack;Product manager,32,17,32,Less than bachelor's
+1e+05,Man,Developer, back-end;Developer, desktop or enterprise applications,20,10,5,Bachelor's
+82000,Man,Developer, embedded applications or devices,15,8,4,Master's
+150000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,10,17,5,Bachelor's
+155000,Man,Developer, full-stack,18,21,18,Bachelor's
+110000,Man,Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,10,13,7,Less than bachelor's
+70000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,13,17,10,Bachelor's
+135000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, full-stack;DevOps specialist;Engineering manager;Product manager;Senior executive/VP;System administrator,20,17,18,Less than bachelor's
+210000,Man,Developer, full-stack,36,16,30,Master's
+150000,Man,Designer;Developer, desktop or enterprise applications;Developer, embedded applications or devices,20,14,11,Bachelor's
+117000,Man,Developer, front-end;Developer, full-stack,17,12,10,Less than bachelor's
+120000,Woman,Developer, full-stack,5,19,2,Bachelor's
+40000,Man,Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,2,16,Less than 1 year,Less than bachelor's
+180000,Woman,Developer, back-end;Developer, full-stack,6,18,5,Master's
+57000,Man,Developer, full-stack,9,20,5,Master's
+1e+05,Man,Developer, full-stack,15,10,10,Bachelor's
+57000,Man,Data or business analyst;Database administrator;Developer, full-stack;Developer, QA or test;Engineer, data,5,30,4,Bachelor's
+88000,Woman,Developer, full-stack,3,29,2,Professional
+215000,Man,Developer, back-end;Developer, desktop or enterprise applications,20,13,11,Less than bachelor's
+70000,Man,Developer, front-end,12,7,3,Master's
+65000,Man,Developer, front-end;Developer, full-stack,19,29,19,Less than bachelor's
+115000,Man,Developer, embedded applications or devices,39,11,27,Bachelor's
+72432,Woman,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Educator,4,12,2,Master's
+63000,Man,Developer, full-stack,9,19,1,Bachelor's
+165000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,14,13,10,Bachelor's
+120000,Woman,Developer, desktop or enterprise applications,12,16,6,Master's
+180000,Man,Developer, back-end;Developer, full-stack,25,12,15,Bachelor's
+110000,Man,Developer, full-stack,16,16,14,Bachelor's
+275000,Man,Developer, back-end;DevOps specialist;Engineer, site reliability,25,15,25,Master's
+106000,Man,NA,40,13,35,PhD
+145000,Man,Academic researcher;Data or business analyst;Designer;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;Educator;Engineer, data,37,12,25,Less than bachelor's
+94000,Man,Developer, full-stack,9,16,Less than 1 year,Bachelor's
+138550,Man,Developer, full-stack,12,17,6,Bachelor's
+94875,Man,Developer, full-stack,8,18,4,Bachelor's
+140000,Man,Developer, mobile,15,11,2,Bachelor's
+265000,Woman,Developer, full-stack,15,14,8,Bachelor's
+120000,Woman,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Developer, embedded applications or devices;Engineer, data;Scientist;Student,8,7,Less than 1 year,Master's
+85000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist;Engineer, data;Engineer, site reliability;Engineering manager;System administrator,25,10,3,Bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist,15,17,15,Bachelor's
+79000,Man,Developer, full-stack,8,9,5,Bachelor's
+106000,Man,Database administrator;DevOps specialist;Engineer, data,6,27,5,Bachelor's
+82000,Man,Developer, full-stack;DevOps specialist,15,14,11,Bachelor's
+95000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, site reliability,20,14,14,Bachelor's
+1e+05,Man,Developer, full-stack,20,12,20,Bachelor's
+64000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,4,15,3,Bachelor's
+130000,Man,Database administrator;Developer, full-stack;Engineer, site reliability;System administrator,30,10,25,Master's
+110000,Man,Developer, full-stack,20,11,6,Master's
+80000,Man,Developer, full-stack,5,16,3,Master's
+50000,Man,Developer, back-end;Developer, game or graphics,10,13,3,Bachelor's
+110000,Man,Developer, full-stack,18,10,14,Bachelor's
+180000,Man,Developer, full-stack,22,10,20,Master's
+60000,Man,Data or business analyst,2,13,2,Bachelor's
+94020,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile,25,13,20,Bachelor's
+123000,Man,Developer, back-end;Developer, full-stack;DevOps specialist;Student,22,18,18,Bachelor's
+250000,Man,Developer, back-end;Developer, desktop or enterprise applications,20,15,16,Less than bachelor's
+110000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,19,13,15,Bachelor's
+250000,Man,Developer, back-end;Developer, full-stack,28,9,18,PhD
+150000,Man,Developer, full-stack;DevOps specialist;Engineering manager;Product manager,23,15,12,Master's
+76000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack,18,20,11,Bachelor's
+90000,Man,Database administrator;Developer, full-stack;System administrator,20,12,8,Less than bachelor's
+108000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,23,13,21,Master's
+72000,Man,Data or business analyst;Data scientist or machine learning specialist,10,14,5,Master's
+135000,Man,Developer, back-end,40,17,34,Bachelor's
+360000,Man,Developer, full-stack;Developer, mobile,33,13,20,Less than bachelor's
+62000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Engineer, data;System administrator,6,16,2,Bachelor's
+83000,Man,Developer, embedded applications or devices,11,17,5,Bachelor's
+121000,Man,Developer, full-stack,8,12,6,Bachelor's
+144000,Man,Database administrator;Designer;Developer, back-end;Developer, full-stack;Developer, QA or test;System administrator,6,14,6,Less than bachelor's
+55000,Woman,Developer, mobile,5,15,1,Bachelor's
+80000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications,8,15,2,Bachelor's
+96000,Woman,Developer, front-end,16,19,12,Bachelor's
+80000,Man,Data scientist or machine learning specialist;Scientist,10,10,1,Bachelor's
+160000,Man,Developer, back-end;DevOps specialist;Engineer, site reliability,24,9,12,Bachelor's
+1e+05,Man,Developer, full-stack,11,12,6,Bachelor's
+90000,Man,Database administrator;Designer;Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;Product manager;System administrator,20,11,13,Less than bachelor's
+1e+05,Man,Developer, full-stack,9,20,9,Master's
+2e+05,Man,Developer, back-end,11,12,9,Master's
+80000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics;Developer, mobile;Developer, QA or test;DevOps specialist,9,18,5,Bachelor's
+113000,Man,Data scientist or machine learning specialist;Developer, full-stack,21,14,15,Less than bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Engineer, data,20,5,13,Master's
+107000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,20,12,8,Bachelor's
+120000,Man,Developer, back-end;Developer, full-stack,14,18,11,Master's
+73000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,9,14,6,Bachelor's
+95000,Man,Developer, front-end,20,23,20,Master's
+72300,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Scientist,7,16,2,Bachelor's
+130000,Man,Developer, full-stack;Developer, mobile,20,8,15,Bachelor's
+165000,Man,Developer, desktop or enterprise applications;Developer, QA or test,38,11,29,Bachelor's
+48000,Man,Developer, desktop or enterprise applications;Developer, full-stack;Developer, mobile,3,11,2,Professional
+140000,Man,Developer, embedded applications or devices,15,13,11,Bachelor's
+55000,Man,Data or business analyst;Educator,Less than 1 year,26,Less than 1 year,Bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack,20,6,20,Bachelor's
+78000,Man,Developer, full-stack,7,16,4,Bachelor's
+136000,Man,Developer, back-end;Developer, desktop or enterprise applications;Engineering manager,14,14,12,Less than bachelor's
+55000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,6,21,2,Bachelor's
+90000,Woman,Developer, mobile;Student,7,16,1,Bachelor's
+105000,Man,Developer, full-stack,7,18,4,Bachelor's
+140000,Man,Developer, embedded applications or devices;Engineering manager,45,12,35,Bachelor's
+450000,Man,Developer, embedded applications or devices,25,10,21,Less than bachelor's
+108000,Man,Developer, full-stack,21,5,21,Less than bachelor's
+93000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, game or graphics,27,10,20,Master's
+85000,Man,Data scientist or machine learning specialist;Developer, full-stack;Engineer, data,11,17,5,Master's
+75000,Man,Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack,8,18,4,Bachelor's
+75000,Man,Developer, back-end;Developer, full-stack,8,21,10,Master's
+111000,Man,Database administrator;Developer, back-end;System administrator,40,13,28,Bachelor's
+105000,Man,Database administrator;Developer, back-end;DevOps specialist;System administrator,11,16,8,Bachelor's
+83500,Man,Developer, mobile,11,14,2,Bachelor's
+115000,Man,Academic researcher;Developer, back-end;Developer, embedded applications or devices;Educator;Scientist;System administrator,42,12,30,PhD
+112000,Man,Data or business analyst,1,29,Less than 1 year,Master's
+71000,Man,Developer, desktop or enterprise applications;Developer, front-end,12,10,8,Bachelor's
+72000,Man,Developer, full-stack,3,16,2,Bachelor's
+140000,Man,NA,18,5,14,Bachelor's
+106000,Man,Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist,7,22,6,Less than bachelor's
+185000,Man,Developer, full-stack;Engineer, data,15,Younger than 5 years,7,Less than bachelor's
+161000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,19,12,10,Bachelor's
+120000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,12,8,8,Bachelor's
+70000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,5,19,4,Bachelor's
+65000,Woman,Developer, full-stack,12,15,6,Bachelor's
+180000,Man,Developer, back-end;Developer, full-stack,24,9,20,Bachelor's
+125000,Man,Developer, full-stack;Developer, mobile,10,15,6,Bachelor's
+135000,Man,Developer, embedded applications or devices,25,12,15,Bachelor's
+155000,Man,Developer, full-stack;DevOps specialist;Engineer, site reliability;Engineering manager;Product manager,3,18,8,Master's
+175000,Man,Developer, back-end;Developer, full-stack,10,11,6,Bachelor's
+160000,Man,Data or business analyst;Developer, back-end;Developer, embedded applications or devices;Developer, full-stack;DevOps specialist;Engineering manager;Product manager,21,16,18,Bachelor's
+78000,Man,Developer, full-stack,10,16,5,Less than bachelor's
+115000,Man,Data scientist or machine learning specialist;Developer, back-end;Developer, QA or test;Engineer, data,15,12,5,Bachelor's
+158000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,30,7,20,Master's
+150000,Man,NA,37,20,37,Bachelor's
+55000,Man,Developer, full-stack;DevOps specialist,14,11,4,Less than bachelor's
+3e+05,Man,Data scientist or machine learning specialist;Developer, back-end;Engineer, data;Scientist,23,11,14,PhD
+150000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,21,11,21,Bachelor's
+220000,Man,Developer, full-stack,32,10,20,Bachelor's
+88000,Man,Developer, desktop or enterprise applications;Developer, full-stack,2,22,Less than 1 year,Master's
+1e+05,Man,Engineer, site reliability;System administrator,10,8,4,Less than bachelor's
+130000,Man,Database administrator;Developer, back-end;Developer, full-stack;Educator;Engineer, data;Engineer, site reliability;Engineering manager;System administrator,18,9,8,Bachelor's
+150000,Man,Developer, back-end;Developer, mobile,10,18,5,Master's
+1e+05,Man,Marketing or sales professional,5,8,3,Less than bachelor's
+66000,Man,Developer, desktop or enterprise applications;Scientist,4,18,2,Bachelor's
+130000,Man,Data scientist or machine learning specialist,15,17,2,PhD
+72000,Woman,Developer, QA or test,38,13,15,Bachelor's
+105000,Man,DevOps specialist,20,15,14,Less than bachelor's
+173000,Woman,Developer, back-end;Developer, desktop or enterprise applications;Engineering manager,20,7,8,Master's
+63000,Man,Data or business analyst;Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Engineer, data;Scientist,7,16,2,Less than bachelor's
+332000,Man,Developer, front-end,6,22,6,Bachelor's
+60000,Man,Database administrator;Developer, desktop or enterprise applications;Developer, full-stack,13,12,4,Bachelor's
+115000,Woman,Designer;Developer, desktop or enterprise applications;Developer, front-end,12,13,12,Bachelor's
+185000,Man,Developer, desktop or enterprise applications;Developer, game or graphics;Developer, mobile,20,11,8,Master's
+62500,Man,Developer, full-stack;Developer, QA or test,2,10,1,Bachelor's
+70000,Man,Data or business analyst,4,18,2,Bachelor's
+89000,Man,Data or business analyst;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,32,19,27,Bachelor's
+120000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;Engineering manager,10,10,7,Bachelor's
+160000,Man,Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Educator;Engineer, data;Scientist;Senior executive/VP;System administrator,22,15,16,Bachelor's
+201000,Man,Developer, full-stack,15,15,6,Bachelor's
+130000,Man,Developer, full-stack,6,25,5,Less than bachelor's
+99000,Man,Developer, back-end;Scientist,3,18,2,Master's
+66000,Man,Data or business analyst;Developer, full-stack;Product manager,8,30,4,Master's
+115000,Man,Developer, back-end;Developer, full-stack,6,28,6,Master's
+1e+05,Man,Developer, front-end,5,8,2,Bachelor's
+187000,Man,Developer, front-end;Developer, full-stack;Developer, mobile,24,9,22,Bachelor's
+85000,Man,Developer, full-stack,7,19,5,Bachelor's
+54000,Woman,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Product manager;Student,12,20,11,Bachelor's
+120000,Woman,Developer, full-stack,18,16,10,Bachelor's
+140000,Woman,Developer, back-end,3,14,1,Bachelor's
+140000,Man,Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, game or graphics,22,8,11,Less than bachelor's
+59569,Man,Developer, full-stack,19,12,9,Bachelor's
+126500,Woman,Developer, back-end,8,22,5,Master's
+92000,Man,Developer, front-end,4,19,3,Bachelor's
+106000,Man,Developer, front-end;Developer, full-stack,7,14,5,Bachelor's
+72000,Man,Developer, full-stack;Developer, QA or test;DevOps specialist;Engineer, site reliability;System administrator,14,16,5,Less than bachelor's
+2e+05,Man,Academic researcher;Data scientist or machine learning specialist,27,10,16,PhD
+137000,Man,Developer, back-end;Developer, full-stack,15,12,11,Bachelor's
+115000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, full-stack;Scientist,7,21,6,Bachelor's
+260000,Man,Developer, back-end;Developer, desktop or enterprise applications,27,14,21,PhD
+68000,Man,Developer, desktop or enterprise applications;Developer, full-stack,3,16,3,Bachelor's
+90000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist,20,9,10,Bachelor's
+90000,Man,Developer, back-end;Developer, full-stack;Developer, mobile,13,12,6,Bachelor's
+73500,Man,Developer, full-stack,20,16,10,Less than bachelor's
+65000,Woman,Database administrator;Designer;Educator;Marketing or sales professional;System administrator,2,10,2,Master's
+92000,Man,Developer, back-end;Developer, desktop or enterprise applications;DevOps specialist,11,16,5,Master's
+137800,Woman,Data scientist or machine learning specialist,5,19,4,Bachelor's
+160000,Man,Engineering manager;Senior executive/VP,16,10,14,Less than bachelor's
+84000,Man,Database administrator;Developer, full-stack;System administrator,9,12,4,Less than bachelor's
+153000,Man,Developer, back-end;Developer, full-stack;Engineer, data,8,18,4,Bachelor's
+280000,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, back-end;Developer, full-stack;Scientist,35,12,23,PhD
+70000,Man,Developer, mobile,5,18,2,Bachelor's
+90000,Man,DevOps specialist,5,16,Less than 1 year,Bachelor's
+155000,Man,Developer, desktop or enterprise applications;Developer, QA or test,15,15,12,Master's
+154000,Man,Developer, full-stack,24,13,18,Master's
+111000,Man,NA,9,15,4,Bachelor's
+140000,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, back-end;Engineer, data,16,16,10,Bachelor's
+79000,Man,Designer;Developer, back-end;Developer, QA or test;DevOps specialist;Engineer, site reliability,12,11,6,Bachelor's
+78000,Man,Developer, desktop or enterprise applications;Developer, full-stack,7,21,2,Less than bachelor's
+250000,Man,Senior executive/VP,25,15,22,Less than bachelor's
+92000,Man,System administrator,4,13,4,Bachelor's
+125000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, mobile,49,14,40,Less than bachelor's
+85000,Man,Developer, front-end,3,26,2,Bachelor's
+160000,Woman,Developer, full-stack,10,16,6,Professional
+165000,Man,Developer, back-end;Developer, full-stack,35,6,24,Master's
+225000,Man,Developer, back-end;Developer, full-stack,19,12,13,Bachelor's
+115000,Man,NA,25,15,20,Bachelor's
+205000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,37,15,34,Bachelor's
+2e+05,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;DevOps specialist,16,9,3,Bachelor's
+78000,Man,Developer, desktop or enterprise applications;Developer, full-stack,7,16,5,Bachelor's
+140000,Man,Developer, back-end;DevOps specialist;Engineer, site reliability,10,12,8,Bachelor's
+89000,Man,Developer, back-end;DevOps specialist,33,8,17,Bachelor's
+68000,Woman,Developer, full-stack,16,15,2,Bachelor's
+75000,Man,Developer, back-end;Developer, QA or test;Product manager,12,14,6,Master's
+95000,Man,DevOps specialist;Engineer, site reliability;System administrator,2,23,2,Less than bachelor's
+78952,Man,Developer, full-stack;Developer, QA or test,8,17,2,Bachelor's
+1e+05,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,30,9,20,Master's
+110000,Woman,Developer, full-stack,1,27,Less than 1 year,Bachelor's
+75000,Man,Academic researcher;Designer;Developer, full-stack;Developer, mobile;Developer, QA or test;Educator;Student,5,37,5,Master's
+40000,Man,Data or business analyst,2,25,Less than 1 year,Bachelor's
+175000,Man,Engineer, site reliability,33,18,29,Master's
+2e+05,Man,Developer, full-stack,20,15,13,Bachelor's
+107000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, game or graphics;Engineering manager;System administrator,20,17,16,Less than bachelor's
+1e+05,Man,Developer, full-stack,7,17,6,Master's
+80000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,13,15,7,Bachelor's
+90000,Man,Database administrator;Developer, back-end;DevOps specialist;Engineer, site reliability;System administrator,4,16,3,Bachelor's
+110000,Woman,NA,19,19,13,Master's
+90000,Woman,Developer, mobile,6,25,5,Less than bachelor's
+108000,Man,Developer, full-stack,5,18,4,Less than bachelor's
+125000,Woman,Developer, full-stack,4,10,3,Bachelor's
+135000,Man,Developer, full-stack;DevOps specialist,42,12,37,Less than bachelor's
+174000,Man,Developer, back-end;DevOps specialist;System administrator,12,11,3,Bachelor's
+67000,Man,Academic researcher;Developer, full-stack,5,NA,2,Bachelor's
+73102,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Engineer, data,8,18,4,Bachelor's
+80000,Man,Academic researcher,6,24,4,Master's
+160000,Man,Developer, front-end;Developer, full-stack,10,22,3,Bachelor's
+1e+05,Man,Academic researcher;Designer;Developer, front-end;Educator,8,11,6,Master's
+250000,Man,Data scientist or machine learning specialist;Developer, back-end;Scientist,20,18,20,PhD
+64000,Man,Developer, back-end,6,14,2,Bachelor's
+110000,Man,Developer, front-end;Developer, full-stack,8,15,2,Bachelor's
+85000,Man,Scientist,9,18,5,PhD
+88000,Man,Developer, back-end;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack,9,16,4,Master's
+73000,Man,Developer, back-end;Developer, full-stack,8,14,8,Less than bachelor's
+90000,Man,Data or business analyst;Engineer, data,17,19,13,Bachelor's
+125000,Man,Designer;Developer, full-stack,30,12,20,Bachelor's
+220000,Man,DevOps specialist;Engineer, site reliability,20,10,20,Bachelor's
+65000,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,3,20,1,Bachelor's
+145000,Man,Developer, desktop or enterprise applications;Developer, full-stack,41,14,33,Bachelor's
+90000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,7,21,1,Bachelor's
+190000,Man,Developer, back-end;Developer, mobile;Engineer, site reliability;System administrator,15,10,11,Less than bachelor's
+205000,Man,NA,10,7,4,Bachelor's
+96000,Woman,Data or business analyst;Data scientist or machine learning specialist,5,16,5,Bachelor's
+155000,Man,Engineering manager;Senior executive/VP,35,5,10,Master's
+191500,Man,Developer, mobile,15,15,9,Bachelor's
+54000,Woman,Developer, back-end;Developer, full-stack,9,15,2,Bachelor's
+269000,Man,Developer, back-end,15,10,5,Bachelor's
+1e+05,Man,Developer, mobile,6,16,3,Bachelor's
+110000,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Engineering manager;Product manager,36,13,27,Master's
+130000,Man,Developer, back-end,12,16,5,Bachelor's
+150000,Man,Developer, back-end,17,17,11,Master's
+153000,Man,Database administrator;Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,40,15,33,Bachelor's
+120000,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;System administrator,25,8,11,Bachelor's
+61000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test,13,13,6,Bachelor's
+235000,Man,Developer, full-stack,26,12,22,Master's
+115000,Man,Database administrator;Designer;Developer, desktop or enterprise applications;Developer, QA or test;DevOps specialist;System administrator,8,15,4,Bachelor's
+95000,Man,Developer, back-end;Developer, full-stack,6,10,Less than 1 year,Bachelor's
+150000,Man,Developer, back-end;Developer, mobile,35,13,24,Bachelor's
+62000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;System administrator,25,15,10,Bachelor's
+120000,Man,Developer, full-stack;DevOps specialist;Engineering manager;System administrator,13,11,8,Bachelor's
+80000,Man,Designer;Developer, front-end;Developer, full-stack,8,12,4,Bachelor's
+85000,Woman,Academic researcher;Developer, full-stack,30,19,25,PhD
+210000,Man,Designer;Developer, front-end,12,22,11,Master's
+325000,Man,Developer, back-end,6,11,4,Bachelor's
+135000,Man,Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile,8,18,6,Less than bachelor's
+80000,Woman,Developer, back-end,1,26,Less than 1 year,Bachelor's
+125000,Man,Developer, full-stack,8,14,Less than 1 year,Bachelor's
+93500,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile,6,22,6,Less than bachelor's
+111000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,20,11,10,Bachelor's
+120000,Man,Data or business analyst;Database administrator;Engineer, data;Engineering manager,5,11,4,Bachelor's
+150000,Man,Academic researcher;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;Educator;Engineer, data;Product manager;Scientist,26,5,17,PhD
+150000,Man,Academic researcher;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Scientist,18,15,12,Master's
+105000,Man,Developer, front-end;Developer, full-stack,3,25,2,Bachelor's
+120000,Man,Developer, back-end;Developer, full-stack;DevOps specialist,7,13,4,Less than bachelor's
+70000,Man,Developer, full-stack,10,10,7,Less than bachelor's
+110000,Man,Data or business analyst;Data scientist or machine learning specialist;System administrator,11,19,24,Master's
+129000,Man,Developer, back-end,21,13,17,Less than bachelor's
+80000,Man,Academic researcher;Educator;Scientist,17,19,10,PhD
+45000,Man,Developer, full-stack,5,24,Less than 1 year,Less than bachelor's
+93000,Man,Developer, back-end;Developer, QA or test,5,13,4,Less than bachelor's
+90000,Man,Developer, front-end;Developer, full-stack,3,15,2,Bachelor's
+160000,Man,Data scientist or machine learning specialist;Engineer, data,12,19,10,Bachelor's
+148500,Man,Database administrator;Developer, back-end;DevOps specialist,8,16,6,Bachelor's
+55000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,5,11,3,Bachelor's
+139000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,12,14,8,Master's
+120000,Man,Developer, back-end;Developer, full-stack,11,17,10,Bachelor's
+62000,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, QA or test;Product manager;System administrator,10,8,6,Less than bachelor's
+79000,Man,Developer, full-stack,3,33,1,Bachelor's
+87000,Man,Developer, embedded applications or devices,6,17,4,Bachelor's
+125000,Man,Developer, full-stack,23,30,20,Bachelor's
+34496,Woman,Developer, back-end;Developer, front-end;Developer, full-stack,2,21,1,Less than bachelor's
+60000,Man,Designer;Developer, full-stack,6,17,3,Less than bachelor's
+85000,Man,Developer, full-stack,38,11,22,Bachelor's
+82000,Man,Developer, back-end;Developer, full-stack,4,15,Less than 1 year,Bachelor's
+93000,Man,Database administrator;DevOps specialist;Engineer, site reliability;System administrator,8,13,8,Bachelor's
+125000,Man,Designer;Developer, back-end;Developer, desktop or enterprise applications,10,16,4,Bachelor's
+112800,Man,Developer, full-stack;DevOps specialist,9,19,9,Bachelor's
+134000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications,20,14,17,Bachelor's
+95000,Man,Developer, full-stack,13,16,8,Bachelor's
+120000,Man,Developer, front-end,24,14,15,Bachelor's
+341000,Man,Developer, full-stack,8,12,7,Master's
+320000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, full-stack;DevOps specialist;Engineering manager;Marketing or sales professional;Product manager;Senior executive/VP;System administrator,28,12,24,Professional
+86250,Man,Designer;Developer, full-stack;Developer, QA or test,9,16,5,Bachelor's
+180000,Man,Developer, back-end;Developer, mobile,28,12,18,Less than bachelor's
+120522,Man,Database administrator;Engineer, data,9,21,5,Master's
+97000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;System administrator,16,13,2,Master's
+110000,Man,Developer, back-end,9,13,4,Bachelor's
+160000,Man,Developer, full-stack,20,11,18,Bachelor's
+130000,Man,Developer, full-stack;DevOps specialist;Engineer, data,21,12,12,Bachelor's
+158000,Man,Developer, back-end;Developer, game or graphics;Educator;Engineering manager,27,11,16,Bachelor's
+72500,Man,Developer, full-stack;Developer, mobile,7,22,4,Less than bachelor's
+75000,Man,Developer, front-end;Developer, full-stack,9,11,5,Bachelor's
+45000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, QA or test;DevOps specialist,10,13,1,Bachelor's
+130000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, game or graphics;Engineer, data,34,10,22,Master's
+60000,Man,Developer, full-stack;Engineer, data,2,18,1,Bachelor's
+92000,Woman,Developer, full-stack,8,18,4,Bachelor's
+120000,Man,Developer, full-stack,18,15,13,Bachelor's
+70000,Man,Academic researcher;Developer, back-end;Developer, front-end,8,13,4,Bachelor's
+120000,Man,Developer, mobile;Educator,30,7,10,Bachelor's
+111000,Man,Developer, full-stack,12,13,8,Less than bachelor's
+60000,Woman,Developer, front-end,8,26,Less than 1 year,Master's
+70000,Man,Academic researcher;Data scientist or machine learning specialist;Database administrator;Developer, back-end;Developer, front-end;Developer, full-stack;System administrator,12,18,8,Bachelor's
+110000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;DevOps specialist,30,5,12,Master's
+65000,Woman,Developer, front-end,2,17,1,Bachelor's
+60000,Man,Developer, full-stack;Student,8,17,3,Less than bachelor's
+180000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Product manager,24,9,22,Bachelor's
+70000,Man,Database administrator;Developer, back-end;Developer, full-stack,7,12,6,Bachelor's
+53000,Man,Developer, full-stack;Student,3,19,1,Less than bachelor's
+120000,Man,Developer, desktop or enterprise applications;Developer, full-stack,19,20,15,Bachelor's
+85000,Man,Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,7,13,3,Bachelor's
+65000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, QA or test,7,15,3,Less than bachelor's
+71500,Man,Developer, back-end,10,12,6,Bachelor's
+75000,Woman,Developer, front-end,1,21,Less than 1 year,Bachelor's
+40150,Woman,Designer;Developer, desktop or enterprise applications;Developer, full-stack;Student,7,32,3,Bachelor's
+119000,Man,Developer, full-stack,25,8,22,Master's
+85000,Man,Developer, back-end,12,16,4,Master's
+115000,Man,Developer, back-end;Developer, desktop or enterprise applications,38,11,28,Bachelor's
+1e+05,Man,Database administrator;Designer;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;DevOps specialist;Product manager;System administrator,15,8,8,Bachelor's
+130000,Woman,Academic researcher;Data scientist or machine learning specialist;Scientist,25,15,17,PhD
+1e+05,Man,Developer, back-end;Developer, embedded applications or devices,14,14,12,Bachelor's
+90000,Man,Developer, full-stack,6,19,4,Bachelor's
+155000,Man,NA,31,14,27,Bachelor's
+140000,Man,DevOps specialist,6,8,5,Bachelor's
+115000,Man,Developer, back-end;Developer, front-end;Developer, full-stack;Developer, mobile;Developer, QA or test;Engineer, data,Less than 1 year,21,Less than 1 year,Bachelor's
+102000,Woman,Developer, full-stack,5,32,3,Bachelor's
+150000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,17,17,12,Master's
+71000,Man,Scientist,15,8,Less than 1 year,Bachelor's
+52127,Man,Developer, back-end;Developer, front-end,9,25,4,Bachelor's
+122000,Man,NA,21,12,11,Bachelor's
+190000,Man,Data scientist or machine learning specialist,10,20,8,Master's
+105000,Man,Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack;DevOps specialist;Engineer, data;Engineering manager,20,10,13,Bachelor's
+90000,Woman,Developer, game or graphics;Developer, mobile,7,14,3,Less than bachelor's
+130000,Man,Data scientist or machine learning specialist;Database administrator;Developer, back-end;Engineer, data,4,15,3,Master's
+110000,Man,Developer, full-stack;DevOps specialist;System administrator,22,8,18,Bachelor's
+102000,Man,Developer, full-stack,10,17,7,Master's
+83750,Man,Developer, full-stack,3,14,2,Bachelor's
+88000,Man,Academic researcher;Data or business analyst;Database administrator;Developer, full-stack;Educator;Product manager;Senior executive/VP;System administrator,36,11,27,Master's
+85000,Man,Developer, back-end,25,5,8,Bachelor's
+130000,Man,Developer, back-end;Developer, embedded applications or devices;DevOps specialist;Student,6,6,4,Bachelor's
+85000,Man,Developer, embedded applications or devices;Developer, front-end;Developer, full-stack;Developer, mobile,8,16,6,Bachelor's
+171000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,12,12,8,Master's
+105000,Man,Data or business analyst;Database administrator;Developer, back-end;Developer, desktop or enterprise applications;Developer, front-end;Developer, full-stack,11,26,11,Less than bachelor's
+60000,Man,Developer, back-end;Developer, full-stack;System administrator,40,8,25,Master's
+130000,Man,Data or business analyst;Data scientist or machine learning specialist;Developer, back-end,40,17,30,Master's
+130000,Man,Developer, back-end;Developer, front-end;Developer, full-stack,15,11,10,Less than bachelor's
+71000,Man,Designer;Developer, back-end;Developer, front-end;Developer, full-stack,10,15,4,Bachelor's
+1e+05,Man,Developer, full-stack,9,14,3,Bachelor's
