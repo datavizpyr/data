@@ -1,0 +1,50 @@
+---
+title: "Exploring StackOverFlow Survey Data 2019: Median Salary"
+author: "DataVizPyR"
+date: "12/31/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+theme_set(theme_bw(base_size = 16))
+```
+
+```{r}
+
+survey_results_raw <- read_csv("~/Projects/cmdlinetips/data/developer_survey_2019/survey_results_public.csv") %>%
+  filter(
+    Country == "United States",
+    Employment == "Employed full-time",
+    ConvertedComp > 3e4,
+    ConvertedComp < 2e6
+  )
+```
+```{r}
+survey_results_raw %>% head()
+```
+
+```{r}
+survey_filtered <- survey_results_raw %>% 
+  filter(Gender %in% c("Man", "Woman")) %>%
+  mutate(Manager=if_else(str_detect(DevType, "Engineering manager|Product manager|Senior executive/VP"),"Manager","IC")) %>%
+  filter(CompTotal >10000) %>%
+  filter(!is.na(Manager)) %>%
+  mutate(Education=fct_collapse(EdLevel,
+      `Less than bachelor's` = c(
+        "I never completed any formal education",
+        "Primary/elementary school",
+        "Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",
+        "Some college/university study without earning a degree",
+        "Associate degree"
+      ),
+      `Bachelor's` = "Bachelor’s degree (BA, BS, B.Eng., etc.)",
+      `Master's`=  "Master’s degree (MA, MS, M.Eng., MBA, etc.)",
+      `PhD` =  "Other doctoral degree (Ph.D, Ed.D., etc.)" ,
+      `Professional`=  "Professional degree (JD, MD, etc.)"
+      )) %>%
+  select(CompTotal, Gender, Manager,YearsCode, Age1stCode, YearsCodePro, Education)
+write.csv(survey_filtered %>% sample_n(5000), "StackOverflow_survey_filtered_subsampled_2019.csv", quote=FALSE, row.names = FALSE)
+
+```
