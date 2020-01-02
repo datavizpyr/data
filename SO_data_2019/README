@@ -1,1 +1,4 @@
 Summarized data from StackOverflow survey 2019 data  from https://insights.stackoverflow.com/survey/
+
+Blog posts using the data:
+* [https://datavizpyr.com/stacked-barplots-with-ggplot2-in-r/](stacked barplots- grouped side by side in R)
